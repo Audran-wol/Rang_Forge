@@ -12,27 +12,30 @@ import { TeamSection } from "@/components/layout/sections/team";
 import { TestimonialSection } from "@/components/layout/sections/testimonial";
 
 export const metadata = {
-  title: "Rang Forg",
-  description: "Rang Forge connects the global developer community, offering unparalleled insights into open-source contributions and achievements.",
+  title: "Rank Forge - Global GitHub Contributor Rankings",
+  description: "Discover top GitHub contributors worldwide with Rank Forge. See rankings, achievements, and open-source contributions from developers across the globe.",
+  keywords: ["GitHub rankings", "top contributors", "open source", "developer rankings", "GitHub stats"],
   openGraph: {
     type: "website",
-    url: "",
-    title: "Rang Forge",
-    description: "Rang Forge connects the global developer community, offering unparalleled insights into open-source contributions and achievements.",
+    url: "https://rankforge.com",
+    title: "Rank Forge - Global GitHub Contributor Rankings",
+    description: "Discover top GitHub contributors worldwide with Rank Forge. See rankings, achievements, and open-source contributions from developers across the globe.",
     images: [
       {
         url: "https://res.cloudinary.com/dbzv9xfjp/image/upload/v1723499276/og-images/shadcn-vue.jpg",
         width: 1200,
         height: 630,
-        alt: "Rang Forge",
+        alt: "Rank Forge - Global GitHub Rankings",
       },
     ],
+    siteName: "Rank Forge",
   },
   twitter: {
     card: "summary_large_image",
-    site: "https://github.com/nobruf/shadcn-landing-page.git",
-    title: "Rang Forge",
-    description: "Rang Forge connects the global developer community, offering unparalleled insights into open-source contributions and achievements.",
+    site: "@RankForge",
+    creator: "@RankForge",
+    title: "Rank Forge - Global GitHub Contributor Rankings",
+    description: "Discover top GitHub contributors worldwide with Rank Forge. See rankings, achievements, and open-source contributions from developers across the globe.",
     images: [
       "https://res.cloudinary.com/dbzv9xfjp/image/upload/v1723499276/og-images/shadcn-vue.jpg",
     ],
@@ -40,8 +43,25 @@ export const metadata = {
 };
 
 export default function Home() {
+  const jsonLd = {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    name: "Rank Forge",
+    url: "https://rankforge.com",
+    description: "Global GitHub Contributor Rankings and Statistics",
+    potentialAction: {
+      "@type": "SearchAction",
+      target: "https://rankforge.com/search?q={search_term_string}",
+      "query-input": "required name=search_term_string"
+    }
+  };
+
   return (
     <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
       <HeroSection />
       <SponsorsSection />
       <BenefitsSection />
