@@ -89,6 +89,8 @@ function getRankBadge(rank: number) {
 export function ProfileCard({ profile, rank, country }: ProfileCardProps) {
   const { theme } = useTheme();
   
+  const username = !profile.name || profile.name === "undefined value"  ? profile.login : profile.name
+
   return (
     <Card className={`relative p-4 hover:scale-105 transition-transform duration-200 hover:shadow-lg ${
       theme === 'dark' ? 'bg-dark-card text-light-text' : 'bg-light-card text-dark-text'
@@ -101,14 +103,14 @@ export function ProfileCard({ profile, rank, country }: ProfileCardProps) {
         <div className="relative w-24 h-24 rounded-full overflow-hidden">
           <Image
             src={profile.avatarUrl}
-            alt={profile.name || profile.login}
+            alt={username}
             fill
             className="object-cover"
           />
         </div>
         
         <div className="text-center">
-          <h3 className="text-lg font-semibold">{profile.name || profile.login}</h3>
+          <h3 className="text-lg font-semibold">{username}</h3>
           <div className="flex items-center justify-center gap-2 text-sm text-muted-foreground">
             {getCountryFlag(country)}
             <span>{profile.location || country}</span>
