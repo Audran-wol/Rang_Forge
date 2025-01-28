@@ -4,6 +4,7 @@ import GithubIcon from "@/components/icons/github-icon";
 import LinkedInIcon from "@/components/icons/linkedin-icon";
 import XIcon from "@/components/icons/x-icon";
 import { Star, ArrowRight, MapPin } from "lucide-react";
+import Image from "next/image";
 import React from 'react';
 import {
   Card,
@@ -160,10 +161,12 @@ export const TeamSection = () => {
             )}
             
             <div className="relative w-24 h-24 mx-auto mb-4 rounded-full overflow-hidden">
-              <img
+              <Image
                 src={follower.avatarUrl}
                 alt={follower.name || follower.login}
-                className="object-cover w-full h-full"
+                width={96}
+                height={96}
+                className="object-cover"
               />
             </div>
 

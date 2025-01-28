@@ -1,6 +1,6 @@
 import { Metadata } from 'next'
 import { notFound } from 'next/navigation'
-import { GitHubUser } from '../types'
+import { GitHubUser } from '../../types'
 
 interface Props {
   params: { 

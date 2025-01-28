@@ -3,6 +3,7 @@
 import { Marquee } from "@devnomic/marquee";
 import "@devnomic/marquee/dist/index.css";
 import React from "react";
+import Image from "next/image";
 import contributors from "../../../app/ranking/top_contributors.json";
 import * as flags from 'country-flag-icons/react/3x2';
 
@@ -86,10 +87,12 @@ export const SponsorsSection = () => {
               key={name}
               className="flex items-center gap-4 text-xl md:text-2xl font-medium"
             >
-              <img 
+              <Image 
                 src={avatarUrl}
                 alt={name}
-                className="w-12 h-12 rounded-full object-cover"
+                width={48}
+                height={48}
+                className="rounded-full object-cover"
               />
               <div className="flex flex-col">
                 <span>{name}</span>

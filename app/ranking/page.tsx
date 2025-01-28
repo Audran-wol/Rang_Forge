@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useState } from "react";
+import { useEffect, useState, useCallback } from "react";
 import { ProfileCard } from "@/components/layout/sections/profile-card";
 import { SortingControls } from "@/components/layout/sections/sorting-controls";
 import { useTheme } from "next-themes";
@@ -8,28 +8,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from "@
 import { Alert, AlertDescription } from "@/components/ui/alert";
 import { Loader2, Search } from "lucide-react";
 import { Input } from "@/components/ui/input";
-
-interface User {
-  login: string;
-  name: string;
-  avatarUrl: string;
-  location: string;
-  company?: string;
-  twitterUsername?: string;
-  followers: number;
-  privateContributions: number;
-  publicContributions: number;
-}
-
-type SortCriteria = 'followers' | 'publicContributions' | 'privateContributions';
-
-interface RankingState {
-  country: string;
-  sortBy: SortCriteria;
-  users: User[];
-  loading: boolean;
-  error: string | null;
-}
+import { GitHubUser, SortCriteria, RankingState } from "./types";
 
 const availableCountries = [
   'Afghanistan', 'Albania', 'Algeria', 'Andorra', 'Angola', 'Argentina',
@@ -68,28 +47,7 @@ export default function RankingPage() {
   const [searchQuery, setSearchQuery] = useState("");
   const [debouncedSearchQuery, setDebouncedSearchQuery] = useState("");
 
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const country = params.get('country') || 'Italy';
-    const sort = (params.get('sort') as SortCriteria) || 'followers';
-    const search = params.get('search') || '';
-
-    setState(prev => ({ ...prev, country, sortBy: sort }));
-    setSearchQuery(search);
-    setDebouncedSearchQuery(search);
-    loadUsers(country);
-  }, []);
-
-  useEffect(() => {
-    const timer = setTimeout(() => {
-      setDebouncedSearchQuery(searchQuery);
-      updateQueryParams();
-    }, 300);
-
-    return () => clearTimeout(timer);
-  }, [searchQuery]);
-
-  const updateQueryParams = () => {
+  const updateQueryParams = useCallback(() => {
     const url = new URL(window.location.href);
     url.searchParams.set('country', state.country);
     url.searchParams.set('sort', state.sortBy);
@@ -99,21 +57,16 @@ export default function RankingPage() {
       url.searchParams.delete('search');
     }
     window.history.pushState({}, '', url.toString());
-  };
+  }, [state.country, state.sortBy, searchQuery]);
 
-  const loadUsers = async (country: string) => {
+  const loadUsers = useCallback(async (country: string) => {
     setState(prev => ({ ...prev, loading: true, error: null }));
     try {
       const formattedCountry = country.toLowerCase().replace(/\s+/g, '_');
-      const response = await fetch(`/country_files/${formattedCountry}.json`);
-      if (!response.ok) {
-        throw new Error(`Failed to load data for ${country}`);
-      }
-      const users = await response.json();
-      const sortedUsers = sortUsers(users || [], state.sortBy);
+      const users = require(`/country_files/${formattedCountry}.json`);
       setState(prev => ({
         ...prev,
-        users: sortedUsers,
+        users: sortUsers(users, prev.sortBy),
         loading: false,
       }));
     } catch (error) {
@@ -124,22 +77,55 @@ export default function RankingPage() {
         error: `Failed to load data for ${country}. Please try again later.`,
       }));
     }
-  };
+  }, []);
 
-  const sortUsers = (users: User[], criteria: SortCriteria): User[] => {
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const country = params.get('country') || 'Italy';
+    const sort = (params.get('sort') as SortCriteria) || 'followers';
+    const search = params.get('search') || '';
+
+    setState(prev => ({ ...prev, country, sortBy: sort }));
+    setSearchQuery(search);
+    setDebouncedSearchQuery(search);
+    loadUsers(country);
+  }, [loadUsers]);
+
+  useEffect(() => {
+    const timer = setTimeout(() => {
+      setDebouncedSearchQuery(searchQuery);
+      updateQueryParams();
+    }, 300);
+
+    return () => clearTimeout(timer);
+  }, [searchQuery, updateQueryParams]);
+
+  const sortUsers = (users: GitHubUser[], criteria: SortCriteria): GitHubUser[] => {
     return [...users].sort((a, b) => {
       switch (criteria) {
         case 'followers':
-          return (b.followers || 0) - (a.followers || 0);
+          return b.followers - a.followers;
         case 'publicContributions':
-          return (b.publicContributions || 0) - (a.publicContributions || 0);
+          return b.publicContributions - a.publicContributions;
         case 'privateContributions':
-          return (b.privateContributions || 0) - (a.privateContributions || 0);
+          return b.privateContributions - a.privateContributions;
         default:
           return 0;
       }
     });
   };
+
+  const handleSortChange = useCallback((criteria: SortCriteria) => {
+    const url = new URL(window.location.href);
+    url.searchParams.set('sort', criteria);
+    window.history.pushState({}, '', url.toString());
+    
+    setState(prev => ({
+      ...prev,
+      sortBy: criteria,
+      users: sortUsers([...prev.users], criteria)
+    }));
+  }, []);
 
   const handleCountryChange = (newCountry: string) => {
     setState(prev => ({ ...prev, country: newCountry }));
@@ -147,21 +133,11 @@ export default function RankingPage() {
     updateQueryParams();
   };
 
-  const handleSortChange = (criteria: SortCriteria) => {
-    const sortedUsers = sortUsers(state.users, criteria);
-    setState(prev => ({
-      ...prev,
-      sortBy: criteria,
-      users: sortedUsers,
-    }));
-    updateQueryParams();
-  };
-
   const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearchQuery(event.target.value);
   };
 
-  const filterUsers = (users: User[], query: string): User[] => {
+  const filterUsers = (users: GitHubUser[], query: string): GitHubUser[] => {
     const searchTerm = query.toLowerCase().trim();
     if (!searchTerm) return users;
     

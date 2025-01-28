@@ -17,7 +17,7 @@ export const metadata = {
   keywords: ["GitHub rankings", "top contributors", "open source", "developer rankings", "GitHub stats"],
   openGraph: {
     type: "website",
-    url: "https://rankforge.com",
+    url: "https://rang-forge.netlify.app/",
     title: "Rank Forge - Global GitHub Contributor Rankings",
     description: "Discover top GitHub contributors worldwide with Rank Forge. See rankings, achievements, and open-source contributions from developers across the globe.",
     images: [
