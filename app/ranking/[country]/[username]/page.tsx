@@ -67,7 +67,7 @@ async function getUserData(country: string, username: string): Promise<GitHubUse
 
 export default function UserProfilePage({ params }: Props) {
   return (
-    <>
+    <div>
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -92,8 +92,8 @@ export default function UserProfilePage({ params }: Props) {
         <h1 className="text-3xl font-bold mb-4">
           {params.username} - GitHub Profile
         </h1>
-        <!-- Add more profile details here -->
+        {/* Add more profile details here */}
       </div>
-    </>
+    </div>
   )
 }

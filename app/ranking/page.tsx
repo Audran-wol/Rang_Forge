@@ -1,3 +1,5 @@
+"use client";
+
 export const metadata = {
   title: 'Developer Rankings | Rank Forge',
   description: 'Discover top developers rankings worldwide. Find and compare developer contributions, followers, and achievements on Rank Forge.',
@@ -23,8 +25,6 @@ export const metadata = {
     images: ['/og-image.png'],
   },
 };
-
-"use client";
 
 import { useEffect, useState } from "react";
 import { ProfileCard } from "@/components/layout/sections/profile-card";
