@@ -1,3 +1,29 @@
+export const metadata = {
+  title: 'Developer Rankings | Rank Forge',
+  description: 'Discover top developers rankings worldwide. Find and compare developer contributions, followers, and achievements on Rank Forge.',
+  keywords: ['developer rankings', 'programmer rankings', 'github rankings', 'developer leaderboard', 'Rank Forge'],
+  openGraph: {
+    title: 'Developer Rankings | Rank Forge',
+    description: 'Discover top developers rankings worldwide. Compare developer contributions and achievements.',
+    type: 'website',
+    url: 'https://rankforge.netlify.app/ranking',
+    images: [
+      {
+        url: '/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Rank Forge Developer Rankings',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Developer Rankings | Rank Forge',
+    description: 'Discover top developers rankings worldwide. Compare developer contributions and achievements.',
+    images: ['/og-image.png'],
+  },
+};
+
 "use client";
 
 import { useEffect, useState } from "react";
