@@ -9,6 +9,7 @@ import { Alert, AlertDescription } from "@/components/ui/alert";
 import { Loader2, Search } from "lucide-react";
 import { Input } from "@/components/ui/input";
 import { GitHubUser, SortCriteria, RankingState } from "./types";
+import { Metadata } from "next";
 
 const availableCountries = [
   'Afghanistan', 'Albania', 'Algeria', 'Andorra', 'Angola', 'Argentina',
@@ -34,6 +35,17 @@ const availableCountries = [
   'United Kingdom', 'United States', 'Uruguay', 'Uzbekistan', 'Venezuela',
   'Vietnam', 'Yemen', 'Zambia', 'Zimbabwe'
 ].filter(country => country !== 'undefined value');
+
+export async function generateMetadata(): Promise<Metadata> {
+  return {
+    title: "GitHub Developer Rankings - Find Top Developers by Country | Rang Forge",
+    description: "Explore GitHub developer rankings worldwide. Find top developers by country, contributions, and influence. Comprehensive GitHub user statistics and rankings updated daily.",
+    keywords: ["github rankings", "developer rankings", "github users", "top developers", "developer leaderboard", "github statistics", "country rankings", "developer metrics", "github contributions", "rang forge"],
+    alternates: {
+      canonical: "https://rang-forge.netlify.app/ranking"
+    }
+  };
+}
 
 export default function RankingPage() {
   const { theme } = useTheme();
