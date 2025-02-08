@@ -1,25 +1,25 @@
 [
     {
-        "login": "rgaudin",
-        "name": "rgaudin",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57929?s=72&u=0b8ac558c11c79f533eb7af90707a20d2e85f3bc&v=4",
-        "location": "Bamako, Mali",
-        "company": "y\u025bl\u025bman",
-        "twitterUsername": "undefined value",
-        "followers": 89,
-        "privateContributions": 17,
-        "publicContributions": 1664
-    },
-    {
         "login": "ibrahimkelly",
         "name": "I-K(***)Y",
         "avatarUrl": "https://avatars.githubusercontent.com/u/94073143?s=72&u=f68311e8fbc7622641ed53251e915892e29cb850&v=4",
         "location": "Mali",
         "company": "THL Technologies",
         "twitterUsername": "ibrahimkelly99",
-        "followers": 82,
-        "privateContributions": 1906,
-        "publicContributions": 52
+        "followers": 97,
+        "privateContributions": 1639,
+        "publicContributions": 28
+    },
+    {
+        "login": "rgaudin",
+        "name": "rgaudin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57929?s=72&u=0b8ac558c11c79f533eb7af90707a20d2e85f3bc&v=4",
+        "location": "Bamako, Mali",
+        "company": "y\u025bl\u025bman",
+        "twitterUsername": "undefined value",
+        "followers": 93,
+        "privateContributions": 48,
+        "publicContributions": 1569
     },
     {
         "login": "Trast00",
@@ -29,8 +29,8 @@
         "company": "Microverse",
         "twitterUsername": "AllassaneDicko0",
         "followers": 66,
-        "privateContributions": 643,
-        "publicContributions": 103
+        "privateContributions": 497,
+        "publicContributions": 102
     },
     {
         "login": "IvinoDev",
@@ -39,9 +39,20 @@
         "location": "Mali, Bamako",
         "company": "undefined value",
         "twitterUsername": "undefined value",
-        "followers": 48,
-        "privateContributions": 77,
-        "publicContributions": 17
+        "followers": 53,
+        "privateContributions": 3586,
+        "publicContributions": 11
+    },
+    {
+        "login": "mkantem",
+        "name": "Kante Mahamadou",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/17012616?s=72&u=f456130af197c75b8fc69dda7b14a893ff26c184&v=4",
+        "location": "Mali",
+        "company": "undefined value",
+        "twitterUsername": "mkantem",
+        "followers": 50,
+        "privateContributions": 20,
+        "publicContributions": 128
     },
     {
         "login": "Abdoul03",
@@ -51,19 +62,8 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 43,
-        "privateContributions": 71,
-        "publicContributions": 127
-    },
-    {
-        "login": "mkantem",
-        "name": "Kante Mahamadou",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/17012616?s=72&u=f456130af197c75b8fc69dda7b14a893ff26c184&v=4",
-        "location": "Mali",
-        "company": "undefined value",
-        "twitterUsername": "mkantem",
-        "followers": 43,
-        "privateContributions": 20,
-        "publicContributions": 111
+        "privateContributions": 81,
+        "publicContributions": 129
     },
     {
         "login": "diarisdiakite",
@@ -72,9 +72,9 @@
         "location": "Bamako - Mali",
         "company": "Full-Stack Developer / Microverse student",
         "twitterUsername": "diarisdiakite",
-        "followers": 34,
+        "followers": 35,
         "privateContributions": 5,
-        "publicContributions": 31
+        "publicContributions": 1
     },
     {
         "login": "Abdoulayadiallo",
@@ -84,7 +84,7 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 31,
-        "privateContributions": 375,
+        "privateContributions": 382,
         "publicContributions": 14
     },
     {
@@ -94,9 +94,9 @@
         "location": "Bamako, Mali",
         "company": "@microverseinc Microverse",
         "twitterUsername": "touredri",
-        "followers": 29,
-        "privateContributions": 242,
-        "publicContributions": 29
+        "followers": 30,
+        "privateContributions": 263,
+        "publicContributions": 36
     },
     {
         "login": "dsekou166",
@@ -112,24 +112,13 @@
     {
         "login": "kdiawara96",
         "name": "Karim Diawara",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101529749?s=72&u=fbd2b9c63a9c3545bc8ee8a1041d378f8393bd9f&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101529749?s=72&u=5d20f350fe55846d60db4fcda885ab4a21378b8e&v=4",
         "location": "JX4X+QX9, Bamako",
         "company": "undefined value",
         "twitterUsername": "karimdiawara96",
         "followers": 27,
-        "privateContributions": 2422,
+        "privateContributions": 2218,
         "publicContributions": 240
-    },
-    {
-        "login": "Sidaty",
-        "name": "Sidaty Moulaye KOUREICHY",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/16735622?s=72&u=94332639c726e691b5bcdc5437510e115ca404e5&v=4",
-        "location": "Bamako, Mali",
-        "company": "Log@ Engineering",
-        "twitterUsername": "ksidatym",
-        "followers": 26,
-        "privateContributions": 160,
-        "publicContributions": 2
     },
     {
         "login": "AlyKonte",
@@ -150,8 +139,19 @@
         "company": "@thltechnologies ",
         "twitterUsername": "geekdjenika",
         "followers": 25,
-        "privateContributions": 3458,
-        "publicContributions": 25
+        "privateContributions": 1604,
+        "publicContributions": 1455
+    },
+    {
+        "login": "Sidaty",
+        "name": "Sidaty Moulaye KOUREICHY",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16735622?s=72&u=94332639c726e691b5bcdc5437510e115ca404e5&v=4",
+        "location": "Bamako, Mali",
+        "company": "Log@ Engineering",
+        "twitterUsername": "ksidatym",
+        "followers": 25,
+        "privateContributions": 160,
+        "publicContributions": 2
     },
     {
         "login": "Kalifasenou",
@@ -176,6 +176,17 @@
         "publicContributions": 3
     },
     {
+        "login": "sudoping01",
+        "name": "sed",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84201601?s=72&u=4e9bb7ecf0f7ed8d724efd8a0cea1094af675bc4&v=4",
+        "location": "Bamako",
+        "company": "....",
+        "twitterUsername": "undefined value",
+        "followers": 20,
+        "privateContributions": 1022,
+        "publicContributions": 162
+    },
+    {
         "login": "FatouDev02",
         "name": "undefined value",
         "avatarUrl": "https://avatars.githubusercontent.com/u/104140386?s=72&u=37d4210ffcef8f702165c47ca1f33b794de536c5&v=4",
@@ -183,19 +194,19 @@
         "company": "ThlTechnologies",
         "twitterUsername": "undefined value",
         "followers": 19,
-        "privateContributions": 186,
+        "privateContributions": 189,
         "publicContributions": 1
     },
     {
-        "login": "sudoping01",
-        "name": "sed",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/84201601?s=72&u=4e9bb7ecf0f7ed8d724efd8a0cea1094af675bc4&v=4",
-        "location": "Bamako",
-        "company": "....",
-        "twitterUsername": "undefined value",
+        "login": "yacouba01",
+        "name": "Yacouba Doumbia",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/77977689?s=72&u=2390296f224847cf7379b1b6f6b9964b1eae2902&v=4",
+        "location": "Mali",
+        "company": "Thl Technologies",
+        "twitterUsername": "riyuk_1",
         "followers": 18,
-        "privateContributions": 899,
-        "publicContributions": 88
+        "privateContributions": 3355,
+        "publicContributions": 53
     },
     {
         "login": "BalloIbrahima",
@@ -205,8 +216,19 @@
         "company": "4Hours",
         "twitterUsername": "BalloIbrahima01",
         "followers": 18,
-        "privateContributions": 1263,
-        "publicContributions": 78
+        "privateContributions": 1106,
+        "publicContributions": 44
+    },
+    {
+        "login": "hello99world99",
+        "name": "Ibrahim Kelly",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57602469?s=72&u=85a613b301f1454a5a1c66fb15e697d5e7e142a7&v=4",
+        "location": "Mali/Bamako",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 18,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "nenecybertech",
@@ -218,28 +240,6 @@
         "followers": 17,
         "privateContributions": 0,
         "publicContributions": 19
-    },
-    {
-        "login": "yacouba01",
-        "name": "Yacouba Doumbia",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/77977689?s=72&u=2390296f224847cf7379b1b6f6b9964b1eae2902&v=4",
-        "location": "Mali",
-        "company": "Thl Technologies",
-        "twitterUsername": "riyuk_1",
-        "followers": 17,
-        "privateContributions": 3626,
-        "publicContributions": 19
-    },
-    {
-        "login": "hello99world99",
-        "name": "Ibrahim Kelly",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/57602469?s=72&u=85a613b301f1454a5a1c66fb15e697d5e7e142a7&v=4",
-        "location": "Mali/Bamako",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 17,
-        "privateContributions": 0,
-        "publicContributions": 0
     },
     {
         "login": "4Hours01",
@@ -272,7 +272,7 @@
         "twitterUsername": "undefined value",
         "followers": 15,
         "privateContributions": 0,
-        "publicContributions": 18
+        "publicContributions": 6
     },
     {
         "login": "fadiga",
@@ -281,9 +281,20 @@
         "location": "Bamako, Mali",
         "company": "FAD GLOBAL SERVICES",
         "twitterUsername": "ibfadiga",
-        "followers": 13,
-        "privateContributions": 598,
+        "followers": 14,
+        "privateContributions": 604,
         "publicContributions": 8
+    },
+    {
+        "login": "sbore669",
+        "name": "Souleymane Bore",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107039494?s=72&u=c192da825a641cd709c722c1df225378af1efa21&v=4",
+        "location": "Bamako",
+        "company": "4Hours",
+        "twitterUsername": "undefined value",
+        "followers": 13,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "Dmchez33",
@@ -293,7 +304,7 @@
         "company": "Etudiant",
         "twitterUsername": "undefined value",
         "followers": 13,
-        "privateContributions": 61,
+        "privateContributions": 56,
         "publicContributions": 13
     },
     {
@@ -305,7 +316,7 @@
         "twitterUsername": "undefined value",
         "followers": 13,
         "privateContributions": 0,
-        "publicContributions": 17
+        "publicContributions": 6
     },
     {
         "login": "moisediarra",
@@ -316,18 +327,18 @@
         "twitterUsername": "undefined value",
         "followers": 12,
         "privateContributions": 32,
-        "publicContributions": 79
+        "publicContributions": 78
     },
     {
-        "login": "sbore669",
-        "name": "Souleymane Bore",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/107039494?s=72&u=c192da825a641cd709c722c1df225378af1efa21&v=4",
+        "login": "Moussa0082",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/106883972?s=72&v=4",
         "location": "Bamako",
-        "company": "4Hours",
+        "company": "IDE Sarl",
         "twitterUsername": "undefined value",
         "followers": 12,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 135
     },
     {
         "login": "Justin7916",
@@ -352,17 +363,6 @@
         "publicContributions": 4
     },
     {
-        "login": "Moussa0082",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/106883972?s=72&v=4",
-        "location": "Bamako",
-        "company": "IDE Sarl",
-        "twitterUsername": "undefined value",
-        "followers": 11,
-        "privateContributions": 0,
-        "publicContributions": 166
-    },
-    {
         "login": "v-v",
         "name": "Vedran Vukotic",
         "avatarUrl": "https://avatars.githubusercontent.com/u/1318202?s=72&u=b08739acb8d395eb9c5338c283b7f011c6f1c0e7&v=4",
@@ -372,6 +372,17 @@
         "followers": 11,
         "privateContributions": 0,
         "publicContributions": 0
+    },
+    {
+        "login": "s7d11",
+        "name": "Sebastien.",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/26676922?s=72&v=4",
+        "location": "Bamako, ML",
+        "company": "@RobotsMali-AI",
+        "twitterUsername": "undefined value",
+        "followers": 11,
+        "privateContributions": 8,
+        "publicContributions": 2
     },
     {
         "login": "alfred858",
@@ -392,8 +403,8 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 11,
-        "privateContributions": 34,
-        "publicContributions": 43
+        "privateContributions": 36,
+        "publicContributions": 44
     },
     {
         "login": "imidsac",
@@ -407,23 +418,34 @@
         "publicContributions": 3
     },
     {
+        "login": "diarray-hub",
+        "name": "Diarra Yacouba",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114512099?s=72&u=6d1b0e323f03c4ab0af91db30da45b91b30450ad&v=4",
+        "location": "Bamako, Mali",
+        "company": "undefined value",
+        "twitterUsername": "d1array",
+        "followers": 10,
+        "privateContributions": 2,
+        "publicContributions": 233
+    },
+    {
+        "login": "minato223",
+        "name": "Lamine Diarra",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/71100950?s=72&u=f0e77b87914b671086ac94fa793ae93a89895e59&v=4",
+        "location": "Bamako | Mali",
+        "company": "Lamine Diarra",
+        "twitterUsername": "laminecoder",
+        "followers": 10,
+        "privateContributions": 284,
+        "publicContributions": 33
+    },
+    {
         "login": "THOMASZANA2507",
         "name": "Thomas Zana Coulibaly",
         "avatarUrl": "https://avatars.githubusercontent.com/u/105376802?s=72&u=6d55e655abad6110fcbf2421a5e800799f483ef7&v=4",
         "location": "Bamako",
         "company": "Orange Mali",
         "twitterUsername": "undefined value",
-        "followers": 10,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "hellodiamalassana",
-        "name": "hellodiama",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/69864269?s=72&u=401f554e7e0e4d50e41d4cab46fb1efd2dc0551c&v=4",
-        "location": "Bamako",
-        "company": "undefined value",
-        "twitterUsername": "Hellodiama",
         "followers": 10,
         "privateContributions": 0,
         "publicContributions": 0
@@ -436,8 +458,8 @@
         "company": "undefined value",
         "twitterUsername": "mr_sakine",
         "followers": 10,
-        "privateContributions": 1370,
-        "publicContributions": 1540
+        "privateContributions": 1707,
+        "publicContributions": 1083
     },
     {
         "login": "SERVIR-WestAfrica",
@@ -451,17 +473,6 @@
         "publicContributions": 17
     },
     {
-        "login": "minato223",
-        "name": "Lamine Diarra",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/71100950?s=72&u=f0e77b87914b671086ac94fa793ae93a89895e59&v=4",
-        "location": "Bamako | Mali",
-        "company": "Lamine Diarra",
-        "twitterUsername": "laminecoder",
-        "followers": 9,
-        "privateContributions": 306,
-        "publicContributions": 32
-    },
-    {
         "login": "Ibraci",
         "name": "Ibrahim CISSE",
         "avatarUrl": "https://avatars.githubusercontent.com/u/24506500?s=72&u=dcd25488d1eb2f4048bda235d086cc3d6a4dcb3c&v=4",
@@ -473,79 +484,13 @@
         "publicContributions": 0
     },
     {
-        "login": "s7d11",
-        "name": "Sebastien.",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/26676922?s=72&v=4",
-        "location": "Bamako, ML",
-        "company": "@RobotsMali-AI",
-        "twitterUsername": "undefined value",
-        "followers": 9,
-        "privateContributions": 4,
-        "publicContributions": 2
-    },
-    {
-        "login": "devBakary",
-        "name": "devBakary",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/107038338?s=72&v=4",
-        "location": "Bamako, Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 9,
-        "privateContributions": 0,
-        "publicContributions": 13
-    },
-    {
-        "login": "Mohva-kira",
-        "name": "Tandjigora Mohamed",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/41686904?s=72&u=f71dead25331cb28334ea8928ac119d617d3507c&v=4",
-        "location": "Bamako, Mali",
-        "company": "FLY",
-        "twitterUsername": "mohvat",
-        "followers": 9,
-        "privateContributions": 8,
-        "publicContributions": 24
-    },
-    {
-        "login": "diarray-hub",
-        "name": "Diarra Yacouba",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114512099?s=72&u=6d1b0e323f03c4ab0af91db30da45b91b30450ad&v=4",
-        "location": "Bamako, Mali",
-        "company": "undefined value",
-        "twitterUsername": "d1array",
-        "followers": 8,
-        "privateContributions": 2,
-        "publicContributions": 211
-    },
-    {
-        "login": "Pelpav",
-        "name": "Christian Pavlov Elom Nouboukpo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112887005?s=72&v=4",
-        "location": "Bamako",
-        "company": "undefined value",
-        "twitterUsername": "elpav2022",
-        "followers": 8,
-        "privateContributions": 788,
-        "publicContributions": 235
-    },
-    {
-        "login": "Mictar",
-        "name": "Moctar cisse",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58907602?s=72&v=4",
-        "location": "Bamako/Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 8,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "pachaboul",
         "name": "Pacha Aboul",
         "avatarUrl": "https://avatars.githubusercontent.com/u/1564860?s=72&u=f034afa55e7d07bd79a396c3d0b0e6e9e0afc440&v=4",
         "location": "Osaka & Bamako",
         "company": "Smart YIRIBA",
         "twitterUsername": "undefined value",
-        "followers": 8,
+        "followers": 9,
         "privateContributions": 0,
         "publicContributions": 31
     },
@@ -556,9 +501,42 @@
         "location": "Bamako Mali",
         "company": "Mon chien",
         "twitterUsername": "undefined value",
-        "followers": 8,
+        "followers": 9,
         "privateContributions": 0,
         "publicContributions": 0
+    },
+    {
+        "login": "devBakary",
+        "name": "devBakary",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/107038338?s=72&v=4",
+        "location": "Bamako, Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 9,
+        "privateContributions": 0,
+        "publicContributions": 6
+    },
+    {
+        "login": "hellodiamalassana",
+        "name": "hellodiama",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/69864269?s=72&u=401f554e7e0e4d50e41d4cab46fb1efd2dc0551c&v=4",
+        "location": "Bamako",
+        "company": "undefined value",
+        "twitterUsername": "Hellodiama",
+        "followers": 9,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "Pelpav",
+        "name": "Christian Pavlov Elom Nouboukpo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/112887005?s=72&v=4",
+        "location": "Bamako",
+        "company": "undefined value",
+        "twitterUsername": "elpav2022",
+        "followers": 8,
+        "privateContributions": 860,
+        "publicContributions": 236
     },
     {
         "login": "Abbv75",
@@ -568,8 +546,19 @@
         "company": "HorizonFuture",
         "twitterUsername": "undefined value",
         "followers": 8,
-        "privateContributions": 916,
-        "publicContributions": 0
+        "privateContributions": 981,
+        "publicContributions": 68
+    },
+    {
+        "login": "Mohva-kira",
+        "name": "Tandjigora Mohamed",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/41686904?s=72&u=f71dead25331cb28334ea8928ac119d617d3507c&v=4",
+        "location": "Bamako, Mali",
+        "company": "FLY",
+        "twitterUsername": "mohvat",
+        "followers": 8,
+        "privateContributions": 10,
+        "publicContributions": 16
     },
     {
         "login": "IbnISSA",
@@ -580,7 +569,18 @@
         "twitterUsername": "undefined value",
         "followers": 8,
         "privateContributions": 0,
-        "publicContributions": 38
+        "publicContributions": 33
+    },
+    {
+        "login": "Mictar",
+        "name": "Moctar cisse",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58907602?s=72&v=4",
+        "location": "Bamako/Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 7,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "tienou-k",
@@ -594,26 +594,15 @@
         "publicContributions": 140
     },
     {
-        "login": "IbrahimMaiga",
-        "name": "Ibrahim Maiga",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/12346624?s=72&v=4",
-        "location": "Bamako, Mali",
+        "login": "Exosuit",
+        "name": "Opengheimer",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/32544823?s=72&v=4",
+        "location": "South-Western Timbuktu",
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 7,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "ketacompany",
-        "name": "K'ETA",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114296936?s=72&u=0d80158e566456f1d22663a25cb29e6479f253b8&v=4",
-        "location": "Mali",
-        "company": "K'ETA COMPANY",
-        "twitterUsername": "ketacompany",
-        "followers": 7,
-        "privateContributions": 0,
-        "publicContributions": 0
+        "privateContributions": 19,
+        "publicContributions": 61
     },
     {
         "login": "alou",
@@ -623,6 +612,17 @@
         "company": "Dolo Solution",
         "twitterUsername": "undefined value",
         "followers": 7,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "IbrahimMaiga",
+        "name": "Ibrahim Maiga",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12346624?s=72&v=4",
+        "location": "Bamako, Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 6,
         "privateContributions": 0,
         "publicContributions": 0
     },
@@ -646,7 +646,18 @@
         "twitterUsername": "AlkaouDembele",
         "followers": 6,
         "privateContributions": 0,
-        "publicContributions": 58
+        "publicContributions": 60
+    },
+    {
+        "login": "ketacompany",
+        "name": "K'ETA",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114296936?s=72&u=0d80158e566456f1d22663a25cb29e6479f253b8&v=4",
+        "location": "Mali",
+        "company": "K'ETA COMPANY",
+        "twitterUsername": "ketacompany",
+        "followers": 6,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "KouraMouhissin",
@@ -668,29 +679,29 @@
         "twitterUsername": "undefined value",
         "followers": 6,
         "privateContributions": 0,
-        "publicContributions": 1
+        "publicContributions": 0
     },
     {
-        "login": "Exosuit",
-        "name": "Opengheimer",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/32544823?s=72&v=4",
-        "location": "South-Western Timbuktu",
+        "login": "Amagarai",
+        "name": "Amagara\u00ef Guindo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88549538?s=72&u=db45bf6bf63e116c870422371903b3118faf9b9c&v=4",
+        "location": "Bamako,Mali",
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 6,
-        "privateContributions": 19,
-        "publicContributions": 61
+        "privateContributions": 144,
+        "publicContributions": 14
     },
     {
-        "login": "Rutzno",
+        "login": "macktb",
         "name": "Mamadou Makadji DIARRA",
         "avatarUrl": "https://avatars.githubusercontent.com/u/42482243?s=72&u=9782311dd059a8bf833db4975e37fcc3b3f60863&v=4",
         "location": "Bamako - MALI",
-        "company": "undefined value",
+        "company": "@CAISFF",
         "twitterUsername": "undefined value",
         "followers": 5,
         "privateContributions": 14,
-        "publicContributions": 321
+        "publicContributions": 322
     },
     {
         "login": "Mooussa",
@@ -712,18 +723,18 @@
         "twitterUsername": "undefined value",
         "followers": 5,
         "privateContributions": 0,
-        "publicContributions": 27
+        "publicContributions": 19
     },
     {
-        "login": "daouSam",
-        "name": "Samba Daou",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/88547071?s=72&u=8ffdf8df910884733208f4f11281d438d5dcdade&v=4",
-        "location": "Mali, Bamako",
+        "login": "striderking9",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63275356?s=72&u=c524832070e916e525153ae227b9c78348f63d92&v=4",
+        "location": "Bamako, Mali",
         "company": "undefined value",
-        "twitterUsername": "sambadaou447353",
+        "twitterUsername": "strider__king",
         "followers": 5,
         "privateContributions": 0,
-        "publicContributions": 3
+        "publicContributions": 6
     },
     {
         "login": "sic-sic",
@@ -734,18 +745,18 @@
         "twitterUsername": "undefined value",
         "followers": 5,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 7
     },
     {
-        "login": "bilalyTraore",
-        "name": "bilaly Sadio Traore",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/38560371?s=72&v=4",
-        "location": "Bamako, Mali",
+        "login": "daouSam",
+        "name": "Samba Daou",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88547071?s=72&u=8ffdf8df910884733208f4f11281d438d5dcdade&v=4",
+        "location": "Mali, Bamako",
         "company": "undefined value",
-        "twitterUsername": "undefined value",
+        "twitterUsername": "sambadaou447353",
         "followers": 5,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 4
     },
     {
         "login": "esch3r",
@@ -759,6 +770,17 @@
         "publicContributions": 0
     },
     {
+        "login": "tounkaradiagui",
+        "name": "TOUNKARA Diagui",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/101643951?s=72&u=e0e0412110afa87a2c585f0e2f6f1c86050bcb07&v=4",
+        "location": "Mali",
+        "company": "Diagui SERVICES",
+        "twitterUsername": "dtounkara20",
+        "followers": 5,
+        "privateContributions": 0,
+        "publicContributions": 23
+    },
+    {
         "login": "jamalajay09",
         "name": "Alpha Diallo",
         "avatarUrl": "https://avatars.githubusercontent.com/u/110610473?s=72&u=94c04aa26dee26aea28bcd789154c64568e66535&v=4",
@@ -770,17 +792,6 @@
         "publicContributions": 0
     },
     {
-        "login": "Amagarai",
-        "name": "Amagara\u00ef Guindo",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/88549538?s=72&u=db45bf6bf63e116c870422371903b3118faf9b9c&v=4",
-        "location": "Bamako,Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 5,
-        "privateContributions": 168,
-        "publicContributions": 14
-    },
-    {
         "login": "MozartOnWeb",
         "name": "Mandjou Dama",
         "avatarUrl": "https://avatars.githubusercontent.com/u/79732869?s=72&u=5f36746aa39ecda3ce003ba34df6220e33143acd&v=4",
@@ -788,7 +799,7 @@
         "company": "@Kabakoo-app",
         "twitterUsername": "Mandjou_JS",
         "followers": 5,
-        "privateContributions": 277,
+        "privateContributions": 241,
         "publicContributions": 2
     },
     {
@@ -800,7 +811,7 @@
         "twitterUsername": "undefined value",
         "followers": 4,
         "privateContributions": 0,
-        "publicContributions": 45
+        "publicContributions": 48
     },
     {
         "login": "aSEMEGA",
@@ -821,7 +832,7 @@
         "company": "FloyTech",
         "twitterUsername": "undefined value",
         "followers": 4,
-        "privateContributions": 23,
+        "privateContributions": 28,
         "publicContributions": 0
     },
     {
@@ -855,7 +866,7 @@
         "twitterUsername": "undefined value",
         "followers": 4,
         "privateContributions": 0,
-        "publicContributions": 13
+        "publicContributions": 7
     },
     {
         "login": "Gmagassa",
@@ -863,17 +874,6 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/16881706?s=72&u=ee4413871a07ceb3dd3e5e0c314cb3f9cbeb4fdf&v=4",
         "location": "Mali",
         "company": "DigitAfrika",
-        "twitterUsername": "undefined value",
-        "followers": 4,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "AlphaOD",
-        "name": "Alpha",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46965213?s=72&u=ed4925c3a3f0c9ec6c398d101a8d9cb09c86866f&v=4",
-        "location": "Philadelphia - Bamako",
-        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 4,
         "privateContributions": 0,
@@ -891,48 +891,37 @@
         "publicContributions": 0
     },
     {
-        "login": "striderking9",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/63275356?s=72&u=c524832070e916e525153ae227b9c78348f63d92&v=4",
-        "location": "Bamako, Mali",
+        "login": "AlphaOD",
+        "name": "Alpha",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46965213?s=72&u=ed4925c3a3f0c9ec6c398d101a8d9cb09c86866f&v=4",
+        "location": "Philadelphia - Bamako",
         "company": "undefined value",
-        "twitterUsername": "strider__king",
-        "followers": 4,
-        "privateContributions": 0,
-        "publicContributions": 7
-    },
-    {
-        "login": "zoualmamy",
-        "name": "Zoumana Almamy Coulibaly",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/46712111?s=72&u=e5da728de36e3d6fdf8187c9efff8a3c3b7bc5e3&v=4",
-        "location": "Bamako / Mali",
-        "company": "@loga-engineering ",
         "twitterUsername": "undefined value",
         "followers": 4,
         "privateContributions": 0,
         "publicContributions": 0
     },
     {
-        "login": "tounkaradiagui",
-        "name": "TOUNKARA Diagui",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/101643951?s=72&u=e0e0412110afa87a2c585f0e2f6f1c86050bcb07&v=4",
-        "location": "Mali",
-        "company": "Diagui SERVICES",
-        "twitterUsername": "dtounkara20",
-        "followers": 4,
-        "privateContributions": 0,
-        "publicContributions": 32
-    },
-    {
-        "login": "amimahamane",
-        "name": "Ousmane Mahamane Ma\u00efga",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/83135258?s=72&u=b6864a08f08c11d0a7b213b3ab286b1a9bc068d4&v=4",
+        "login": "bilalyTraore",
+        "name": "bilaly Sadio Traore",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38560371?s=72&v=4",
         "location": "Bamako, Mali",
-        "company": "Kabakoo Academies",
+        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 4,
-        "privateContributions": 783,
-        "publicContributions": 6
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "dione24",
+        "name": "Niangaly Abdoulaye",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/10039997?s=72&v=4",
+        "location": "BAMAKO MALI",
+        "company": "NIANGALY",
+        "twitterUsername": "niangaly1",
+        "followers": 4,
+        "privateContributions": 0,
+        "publicContributions": 31
     },
     {
         "login": "Barou93",
@@ -943,6 +932,17 @@
         "twitterUsername": "oumar_mauret",
         "followers": 4,
         "privateContributions": 0,
+        "publicContributions": 3
+    },
+    {
+        "login": "amimahamane",
+        "name": "Ousmane Mahamane Ma\u00efga",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/83135258?s=72&u=b6864a08f08c11d0a7b213b3ab286b1a9bc068d4&v=4",
+        "location": "Bamako, Mali",
+        "company": "Kabakoo Academies",
+        "twitterUsername": "undefined value",
+        "followers": 4,
+        "privateContributions": 652,
         "publicContributions": 6
     },
     {
@@ -954,18 +954,29 @@
         "twitterUsername": "DialloErnest",
         "followers": 4,
         "privateContributions": 0,
-        "publicContributions": 4
+        "publicContributions": 1
     },
     {
-        "login": "aboucodeur",
-        "name": "Aboubacar Barry",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/119354410?s=72&u=3be41dd76563fc0b5438cd38b2779edc425488cd&v=4",
-        "location": "Bamako, Mali",
-        "company": "undefined value",
+        "login": "AbduRahmanS",
+        "name": "Abdrahamane Sarambounou",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45968972?s=72&u=2a64fac3f17f35c1477d1a55e7f98479f358af85&v=4",
+        "location": "Bamako",
+        "company": "@Doninya",
+        "twitterUsername": "AbduRahmanSb",
+        "followers": 4,
+        "privateContributions": 2054,
+        "publicContributions": 50
+    },
+    {
+        "login": "lasco",
+        "name": "Lasco",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/706024?s=72&v=4",
+        "location": "MALI",
+        "company": "CIRA SA",
         "twitterUsername": "undefined value",
         "followers": 4,
         "privateContributions": 0,
-        "publicContributions": 20
+        "publicContributions": 0
     },
     {
         "login": "JacquesInnocent",
@@ -1001,17 +1012,6 @@
         "publicContributions": 0
     },
     {
-        "login": "hedycarter",
-        "name": "Hady Fofana",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/80369146?s=72&u=c9e37a6115a512af6929c52020cf4c3a696a8a7d&v=4",
-        "location": "Mali",
-        "company": "GoodCoding",
-        "twitterUsername": "undefined value",
-        "followers": 3,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "Dustall",
         "name": "Nimaga",
         "avatarUrl": "https://avatars.githubusercontent.com/u/36283336?s=72&u=688f22d2ca04f067446622058dea4bdfa5a92306&v=4",
@@ -1023,15 +1023,15 @@
         "publicContributions": 19
     },
     {
-        "login": "bamatic",
-        "name": "Victor ZUGADI",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58629011?s=72&u=d6236f7207bb9556251e64c439c7836fdb218a5e&v=4",
-        "location": "bamako",
-        "company": "bamaTIC",
+        "login": "hedycarter",
+        "name": "Hady Fofana",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80369146?s=72&u=c9e37a6115a512af6929c52020cf4c3a696a8a7d&v=4",
+        "location": "Mali",
+        "company": "GoodCoding",
         "twitterUsername": "undefined value",
         "followers": 3,
         "privateContributions": 0,
-        "publicContributions": 16
+        "publicContributions": 0
     },
     {
         "login": "diackbuaer",
@@ -1042,7 +1042,18 @@
         "twitterUsername": "undefined value",
         "followers": 3,
         "privateContributions": 0,
-        "publicContributions": 5
+        "publicContributions": 7
+    },
+    {
+        "login": "mlkomou",
+        "name": "Mohamed Lamine Komou",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56928712?s=72&u=7c0675d7be7359a88226a0ed1fd3e58017ca0acd&v=4",
+        "location": "Bamako",
+        "company": "Tuwindi",
+        "twitterUsername": "undefined value",
+        "followers": 3,
+        "privateContributions": 1310,
+        "publicContributions": 63
     },
     {
         "login": "JeremiKoloma",
@@ -1074,8 +1085,30 @@
         "company": "Doninya Inc.",
         "twitterUsername": "undefined value",
         "followers": 3,
-        "privateContributions": 1815,
-        "publicContributions": 392
+        "privateContributions": 1601,
+        "publicContributions": 391
+    },
+    {
+        "login": "LeoAz",
+        "name": "Lionel AZ",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/18053804?s=72&u=54ad701fb8291595fff4d76b51a75c38e2c26b89&v=4",
+        "location": "Bamako",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 3,
+        "privateContributions": 0,
+        "publicContributions": 31
+    },
+    {
+        "login": "zoualmamy",
+        "name": "Zoumana Almamy Coulibaly",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/46712111?s=72&u=e5da728de36e3d6fdf8187c9efff8a3c3b7bc5e3&v=4",
+        "location": "Bamako / Mali",
+        "company": "@loga-engineering ",
+        "twitterUsername": "undefined value",
+        "followers": 3,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "Tapily",
@@ -1096,19 +1129,8 @@
         "company": "undefined value",
         "twitterUsername": "traor_mohamed",
         "followers": 3,
-        "privateContributions": 161,
-        "publicContributions": 3
-    },
-    {
-        "login": "dione24",
-        "name": "Niangaly Abdoulaye",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/10039997?s=72&v=4",
-        "location": "BAMAKO MALI",
-        "company": "NIANGALY",
-        "twitterUsername": "niangaly1",
-        "followers": 3,
-        "privateContributions": 0,
-        "publicContributions": 31
+        "privateContributions": 146,
+        "publicContributions": 0
     },
     {
         "login": "O330oei",
@@ -1133,17 +1155,6 @@
         "publicContributions": 5
     },
     {
-        "login": "AbduRahmanS",
-        "name": "Abdrahamane Sarambounou",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/45968972?s=72&u=2a64fac3f17f35c1477d1a55e7f98479f358af85&v=4",
-        "location": "Bamako",
-        "company": "@Doninya",
-        "twitterUsername": "AbduRahmanSb",
-        "followers": 3,
-        "privateContributions": 2069,
-        "publicContributions": 47
-    },
-    {
         "login": "djibrilmaiga",
         "name": "dmaiga",
         "avatarUrl": "https://avatars.githubusercontent.com/u/107858143?s=72&u=2c8c30064a3e0dfaba4726cb4d8908463d60c58d&v=4",
@@ -1155,17 +1166,6 @@
         "publicContributions": 12
     },
     {
-        "login": "MALLEDOSSONI",
-        "name": "Brehima MALLE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/36641801?s=72&u=c792cc7cd31f1ea5a2ac31b2c745fb155d000a35&v=4",
-        "location": "Bamako",
-        "company": "IT Manager  &  Dev ",
-        "twitterUsername": "undefined value",
-        "followers": 3,
-        "privateContributions": 0,
-        "publicContributions": 3
-    },
-    {
         "login": "Mohamed-ux-lab",
         "name": "undefined value",
         "avatarUrl": "https://avatars.githubusercontent.com/u/79372986?s=72&u=98d94e575735323c9bb09136c9c52c0d5b5e4e64&v=4",
@@ -1174,18 +1174,40 @@
         "twitterUsername": "undefined value",
         "followers": 3,
         "privateContributions": 0,
-        "publicContributions": 32
+        "publicContributions": 29
     },
     {
-        "login": "Malamine-Diabira",
-        "name": "Malamine Diabira",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112198746?s=72&v=4",
-        "location": "Bamako (Mali)",
-        "company": "Sabunyuman Medical Office",
+        "login": "MALLEDOSSONI",
+        "name": "Brehima MALLE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/36641801?s=72&u=c792cc7cd31f1ea5a2ac31b2c745fb155d000a35&v=4",
+        "location": "Bamako",
+        "company": "IT Manager  &  Dev ",
         "twitterUsername": "undefined value",
         "followers": 3,
         "privateContributions": 0,
-        "publicContributions": 54
+        "publicContributions": 2
+    },
+    {
+        "login": "Dayifour",
+        "name": "S\u00e9kou Dayifourou KEITA",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/123929396?s=72&u=72f5b3d75370ab052ab7fa26ce0d1cc58f2ed17c&v=4",
+        "location": "Bamako, Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 3,
+        "privateContributions": 119,
+        "publicContributions": 252
+    },
+    {
+        "login": "bahamasangare",
+        "name": "Bahama Sangar\u00e9",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/126417285?s=72&u=5ad5f0a3a4ad393f78e67f0509eeeee6d144f6f2&v=4",
+        "location": "MALI ",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 3,
+        "privateContributions": 676,
+        "publicContributions": 22
     },
     {
         "login": "Bakeita",
@@ -1196,7 +1218,18 @@
         "twitterUsername": "undefined value",
         "followers": 3,
         "privateContributions": 3,
-        "publicContributions": 4
+        "publicContributions": 5
+    },
+    {
+        "login": "Malamine-Diabira",
+        "name": "Malamine Diabira",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/112198746?s=72&v=4",
+        "location": "Bamako (Mali)",
+        "company": "Sabunyuman Medical Office",
+        "twitterUsername": "undefined value",
+        "followers": 3,
+        "privateContributions": 0,
+        "publicContributions": 53
     },
     {
         "login": "amadoutang824",
@@ -1207,18 +1240,18 @@
         "twitterUsername": "AMTang824",
         "followers": 3,
         "privateContributions": 0,
-        "publicContributions": 1
+        "publicContributions": 0
     },
     {
-        "login": "lasco",
-        "name": "Lasco",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/706024?s=72&v=4",
-        "location": "MALI",
-        "company": "CIRA SA",
+        "login": "aboucodeur",
+        "name": "Aboubacar Barry",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/119354410?s=72&u=3be41dd76563fc0b5438cd38b2779edc425488cd&v=4",
+        "location": "Bamako, Mali",
+        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 3,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 13
     },
     {
         "login": "dramanesd",
@@ -1254,17 +1287,6 @@
         "publicContributions": 0
     },
     {
-        "login": "maskebe",
-        "name": "Mamadou KEBE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/7008550?s=72&v=4",
-        "location": "Bamako",
-        "company": "Maskebe",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "mohamed-sanogo",
         "name": "undefined value",
         "avatarUrl": "https://avatars.githubusercontent.com/u/84803696?s=72&u=54e66a60dc417452e286b377fe44a1431fd6a0b5&v=4",
@@ -1284,7 +1306,18 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 1
+        "publicContributions": 0
+    },
+    {
+        "login": "maskebe",
+        "name": "Mamadou KEBE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7008550?s=72&v=4",
+        "location": "Bamako",
+        "company": "Maskebe",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "kamanga123",
@@ -1342,17 +1375,6 @@
         "publicContributions": 0
     },
     {
-        "login": "Plasm05280",
-        "name": "Mamady KONATE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/34347342?s=72&u=258f95c6b7564f6d3437cd1fb4aaed63692e4e79&v=4",
-        "location": "Bamako",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 456,
-        "publicContributions": 0
-    },
-    {
         "login": "yelensoft",
         "name": "undefined value",
         "avatarUrl": "https://avatars.githubusercontent.com/u/155452936?s=72&u=d31f1b19bbbc12b48f703425e09572f357e21305&v=4",
@@ -1361,7 +1383,18 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 6
+        "publicContributions": 3
+    },
+    {
+        "login": "Plasm05280",
+        "name": "Mamady KONATE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34347342?s=72&u=258f95c6b7564f6d3437cd1fb4aaed63692e4e79&v=4",
+        "location": "Bamako",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 575,
+        "publicContributions": 0
     },
     {
         "login": "antonydara",
@@ -1375,17 +1408,6 @@
         "publicContributions": 0
     },
     {
-        "login": "doumbia97",
-        "name": "Sekouba Doumbia",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/60221599?s=72&u=81803ae6a5e20c496cde0a83eb2c228d55f73462&v=4",
-        "location": "Mali",
-        "company": "undefined value",
-        "twitterUsername": "sekouba_doum",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 2
-    },
-    {
         "login": "emomar",
         "name": "Emomar",
         "avatarUrl": "https://avatars.githubusercontent.com/u/158565509?s=72&u=3691bfbbfcbbed16af46a9d582ac9f96071916f0&v=4",
@@ -1394,7 +1416,18 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 5
+        "publicContributions": 3
+    },
+    {
+        "login": "doumbia97",
+        "name": "Sekouba Doumbia",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60221599?s=72&u=81803ae6a5e20c496cde0a83eb2c228d55f73462&v=4",
+        "location": "Mali",
+        "company": "undefined value",
+        "twitterUsername": "sekouba_doum",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 1
     },
     {
         "login": "kv5t",
@@ -1405,7 +1438,7 @@
         "twitterUsername": "kastsofresh",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 3
     },
     {
         "login": "simobservices",
@@ -1460,7 +1493,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 7
+        "publicContributions": 11
     },
     {
         "login": "oury011",
@@ -1474,17 +1507,6 @@
         "publicContributions": 2
     },
     {
-        "login": "mlkomou",
-        "name": "Mohamed Lamine Komou",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/56928712?s=72&u=7c0675d7be7359a88226a0ed1fd3e58017ca0acd&v=4",
-        "location": "Bamako",
-        "company": "Tuwindi",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 1314,
-        "publicContributions": 69
-    },
-    {
         "login": "xXBlazeItMLGXxmouzChrisJ",
         "name": "Taddl",
         "avatarUrl": "https://avatars.githubusercontent.com/u/19855860?s=72&u=ee93bfc30f262376f6e6dd999261e91d0be48c00&v=4",
@@ -1494,17 +1516,6 @@
         "followers": 2,
         "privateContributions": 0,
         "publicContributions": 0
-    },
-    {
-        "login": "dadoink",
-        "name": "dadoink",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/162570138?s=72&u=7f182df404531bb6a36fe981885cf2b8381b4e47&v=4",
-        "location": "Mali",
-        "company": "Hadana",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 6
     },
     {
         "login": "OliverQueen18",
@@ -1526,7 +1537,18 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 75
+        "publicContributions": 73
+    },
+    {
+        "login": "dadoink",
+        "name": "dadoink",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/162570138?s=72&u=7f182df404531bb6a36fe981885cf2b8381b4e47&v=4",
+        "location": "Mali",
+        "company": "Hadana",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 6
     },
     {
         "login": "Amasko21",
@@ -1581,7 +1603,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 162
+        "publicContributions": 140
     },
     {
         "login": "MahamadouIssaghaDiop",
@@ -1617,17 +1639,6 @@
         "publicContributions": 0
     },
     {
-        "login": "Adou4",
-        "name": "DrCode",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/106911493?s=72&u=48a90b66bde6c675fa54970f19db8e8bfd737512&v=4",
-        "location": "Bamako",
-        "company": "Freelance",
-        "twitterUsername": "Abdoula444",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 1
-    },
-    {
         "login": "dehsy",
         "name": "Deh SY KEITA",
         "avatarUrl": "https://avatars.githubusercontent.com/u/55856923?s=72&v=4",
@@ -1650,17 +1661,6 @@
         "publicContributions": 0
     },
     {
-        "login": "KhalilSnaake",
-        "name": "Khalil Snaake",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/7149341?s=72&u=86007c71d002fded232cb804a1ac24e7495c51c4&v=4",
-        "location": "Bamako",
-        "company": "Interlines Training Center",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "bahaly",
         "name": "Bah Aly",
         "avatarUrl": "https://avatars.githubusercontent.com/u/50265605?s=72&u=d14b68d63601d49196af41a9ee26ad1d616c55df&v=4",
@@ -1672,6 +1672,28 @@
         "publicContributions": 0
     },
     {
+        "login": "Adou4",
+        "name": "DrCode",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/106911493?s=72&u=48a90b66bde6c675fa54970f19db8e8bfd737512&v=4",
+        "location": "Bamako",
+        "company": "Freelance",
+        "twitterUsername": "Abdoula444",
+        "followers": 2,
+        "privateContributions": 2,
+        "publicContributions": 1
+    },
+    {
+        "login": "KhalilSnaake",
+        "name": "Khalil Snaake",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7149341?s=72&u=86007c71d002fded232cb804a1ac24e7495c51c4&v=4",
+        "location": "Bamako",
+        "company": "Interlines Training Center",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
         "login": "fombasouleymane",
         "name": "Souleymane Fomba",
         "avatarUrl": "https://avatars.githubusercontent.com/u/158289500?s=72&u=eb8fc4bca6767c89374469e70a450f1d414665bf&v=4",
@@ -1680,7 +1702,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 12
+        "publicContributions": 16
     },
     {
         "login": "nouhoumovic",
@@ -1702,7 +1724,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 4
+        "publicContributions": 22
     },
     {
         "login": "ddicko",
@@ -1712,19 +1734,8 @@
         "company": "Sualasoft",
         "twitterUsername": "Ibrahim52281597",
         "followers": 2,
-        "privateContributions": 233,
-        "publicContributions": 17
-    },
-    {
-        "login": "elbmaiga",
-        "name": "Baba Elhadj Maiga",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/56691260?s=72&u=0cd99fd880777c83e1f7b89a0ad4c4d2a9776554&v=4",
-        "location": "Bamako, Mali",
-        "company": "@Yulcom-Technologies-Github ",
-        "twitterUsername": "elbmaiga",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 0
+        "privateContributions": 222,
+        "publicContributions": 18
     },
     {
         "login": "Dah17",
@@ -1738,11 +1749,33 @@
         "publicContributions": 13
     },
     {
+        "login": "elbmaiga",
+        "name": "Baba Elhadj Maiga",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56691260?s=72&u=0cd99fd880777c83e1f7b89a0ad4c4d2a9776554&v=4",
+        "location": "Bamako, Mali",
+        "company": "@Yulcom-Technologies-Github ",
+        "twitterUsername": "elbmaiga",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
         "login": "cheick98",
         "name": "Tz Nation",
         "avatarUrl": "https://avatars.githubusercontent.com/u/78909708?s=72&u=ea4156fcacd4527d506ca829d8952f2ec4314a51&v=4",
         "location": "Bamako, Mali",
         "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "BLACKHACK00223",
+        "name": "BLACK-EUROR-404",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73129735?s=72&v=4",
+        "location": "Mali",
+        "company": "BLACK TECHNOLOGY",
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
@@ -1760,17 +1793,6 @@
         "publicContributions": 23
     },
     {
-        "login": "BLACKHACK00223",
-        "name": "BLACK-EUROR-404",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/73129735?s=72&v=4",
-        "location": "Mali",
-        "company": "BLACK TECHNOLOGY",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "Overhaul2",
         "name": "Souleymane FOMBA",
         "avatarUrl": "https://avatars.githubusercontent.com/u/89298408?s=72&u=c25b624a5191cdf96fa38d30502d4deabd45d04a&v=4",
@@ -1778,19 +1800,8 @@
         "company": "@SENE-DEME",
         "twitterUsername": "undefined value",
         "followers": 2,
-        "privateContributions": 40,
-        "publicContributions": 2
-    },
-    {
-        "login": "bahamasangare",
-        "name": "Bahama Sangar\u00e9",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/126417285?s=72&u=5ad5f0a3a4ad393f78e67f0509eeeee6d144f6f2&v=4",
-        "location": "MALI ",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 512,
-        "publicContributions": 22
+        "privateContributions": 34,
+        "publicContributions": 10
     },
     {
         "login": "helloamos",
@@ -1845,7 +1856,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 12
+        "publicContributions": 5
     },
     {
         "login": "Oxadel",
@@ -1969,6 +1980,17 @@
         "publicContributions": 0
     },
     {
+        "login": "BOUKAYE",
+        "name": "BOUKAYE BOUBACAR TRAORE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/30115642?s=72&u=c0b6422b6fd3e215798e5b01707052bdf4a0761a&v=4",
+        "location": "Toulouse and Bamako",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
         "login": "devdiagui",
         "name": "Mahatma Diagui",
         "avatarUrl": "https://avatars.githubusercontent.com/u/187724865?s=72&u=79d573b4995f2ed2326a4e27d1e1bdfba2319bed&v=4",
@@ -1980,15 +2002,15 @@
         "publicContributions": 3
     },
     {
-        "login": "BOUKAYE",
-        "name": "BOUKAYE BOUBACAR TRAORE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/30115642?s=72&u=c0b6422b6fd3e215798e5b01707052bdf4a0761a&v=4",
-        "location": "Toulouse and Bamako",
+        "login": "boubacardoumbia",
+        "name": "Boubacar Doumbia",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/122408867?s=72&v=4",
+        "location": "Bamako",
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 2
     },
     {
         "login": "BrainInSilico",
@@ -2068,39 +2090,6 @@
         "publicContributions": 0
     },
     {
-        "login": "medmoh90",
-        "name": "Mahamadou SOGORE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/72216424?s=72&u=41ab9bbbef6d8bf493a7a9584bbf62834d5f1804&v=4",
-        "location": "BAMAKO, ML",
-        "company": "ISITECH",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 7,
-        "publicContributions": 0
-    },
-    {
-        "login": "cisseauthentic",
-        "name": "Ibrahim Cisse",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/140886037?s=72&u=4028c2cfd70c1f314fa38bf519945a24104d30bc&v=4",
-        "location": "Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "BabaToure",
-        "name": "Bamadou TOURE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/44876380?s=72&u=fbeca51e71b382daaa08088ea25a8afe59c2fb58&v=4",
-        "location": "Bamako",
-        "company": "altic adsi",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "Abbrahamane",
         "name": "El_Dramoss",
         "avatarUrl": "https://avatars.githubusercontent.com/u/44506213?s=72&v=4",
@@ -2131,7 +2120,29 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 44
+        "publicContributions": 21
+    },
+    {
+        "login": "Issa-Bamia",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/79816389?s=72&u=5d722a78c99382d8f439155a155c18545f12a720&v=4",
+        "location": "Bamako, Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 1
+    },
+    {
+        "login": "hameabthiam",
+        "name": "Hame Ab Thiam",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81169081?s=72&v=4",
+        "location": "Bamako ",
+        "company": "Thiam School Pulaar ",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "Yacouba17",
@@ -2140,6 +2151,39 @@
         "location": "Mali/Bougouni",
         "company": "Personnel",
         "twitterUsername": "Yacouba17",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "cisseauthentic",
+        "name": "Ibrahim Cisse",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/140886037?s=72&u=4028c2cfd70c1f314fa38bf519945a24104d30bc&v=4",
+        "location": "Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "BabaToure",
+        "name": "Bamadou TOURE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44876380?s=72&u=fbeca51e71b382daaa08088ea25a8afe59c2fb58&v=4",
+        "location": "Bamako",
+        "company": "altic adsi",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "medmoh90",
+        "name": "Mahamadou SOGORE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72216424?s=72&u=41ab9bbbef6d8bf493a7a9584bbf62834d5f1804&v=4",
+        "location": "BAMAKO, ML",
+        "company": "ISITECH",
+        "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
         "publicContributions": 0
@@ -2163,19 +2207,8 @@
         "company": "@caisff",
         "twitterUsername": "FKondjiri",
         "followers": 1,
-        "privateContributions": 490,
+        "privateContributions": 493,
         "publicContributions": 0
-    },
-    {
-        "login": "Issa-Bamia",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/79816389?s=72&u=5d722a78c99382d8f439155a155c18545f12a720&v=4",
-        "location": "Bamako, Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 1
     },
     {
         "login": "ceosemali",
@@ -2227,17 +2260,6 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/152858757?s=72&v=4",
         "location": "MALI",
         "company": "Tyson corporation",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "nasserig",
-        "name": "Abdel Nasser",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/72443627?s=72&u=1303912431314a90947f5098b44fd2af013be1c3&v=4",
-        "location": "Mali",
-        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
@@ -2332,17 +2354,6 @@
         "publicContributions": 0
     },
     {
-        "login": "Mamadou-Coulibaly",
-        "name": "Mamadou",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/147711140?s=72&v=4",
-        "location": "Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 1
-    },
-    {
         "login": "severintogo",
         "name": "Togonon Severin Togo ",
         "avatarUrl": "https://avatars.githubusercontent.com/u/66538177?s=72&v=4",
@@ -2380,6 +2391,28 @@
         "name": "Moussa S",
         "avatarUrl": "https://avatars.githubusercontent.com/u/123244304?s=72&v=4",
         "location": "Bamako-Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "nasserig",
+        "name": "Abdel Nasser",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/72443627?s=72&u=1303912431314a90947f5098b44fd2af013be1c3&v=4",
+        "location": "Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "Mamadou-Coulibaly",
+        "name": "Mamadou",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/147711140?s=72&v=4",
+        "location": "Mali",
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 1,
@@ -2464,17 +2497,6 @@
         "publicContributions": 0
     },
     {
-        "login": "koneboi",
-        "name": "Bo\u00ef Kone",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/59954260?s=72&u=37770e6da749b44db56dba0912841da92a816b5f&v=4",
-        "location": "Mali",
-        "company": "undefined value",
-        "twitterUsername": "boi_kone",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 1
-    },
-    {
         "login": "abdoulaye-daba",
         "name": "Abdoulaye Daba COULIBALY",
         "avatarUrl": "https://avatars.githubusercontent.com/u/52204284?s=72&v=4",
@@ -2484,6 +2506,17 @@
         "followers": 1,
         "privateContributions": 0,
         "publicContributions": 2
+    },
+    {
+        "login": "koneboi",
+        "name": "Bo\u00ef Kone",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59954260?s=72&u=37770e6da749b44db56dba0912841da92a816b5f&v=4",
+        "location": "Mali",
+        "company": "undefined value",
+        "twitterUsername": "boi_kone",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 1
     },
     {
         "login": "THIOYE97",
@@ -2505,7 +2538,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 1
+        "publicContributions": 0
     },
     {
         "login": "ddiarra",
@@ -2549,18 +2582,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 12
-    },
-    {
-        "login": "MoussaFullStack",
-        "name": "Moussa Bah",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/65988575?s=72&u=85fe7baa0a18cd649c3beb8a0f0de1fbf0369787&v=4",
-        "location": "Bamako",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 9
     },
     {
         "login": "mintaahmed",
@@ -2618,17 +2640,6 @@
         "publicContributions": 0
     },
     {
-        "login": "MoussaBallon",
-        "name": "Moussa Boir\u00e9",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/162900336?s=72&u=9245c32aac9ccfe51f5f2667f40984f1f363e378&v=4",
-        "location": "Bamako, Mali",
-        "company": "Freelance",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 4,
-        "publicContributions": 49
-    },
-    {
         "login": "abdoulstarter",
         "name": "Abdoulstarter",
         "avatarUrl": "https://avatars.githubusercontent.com/u/8943224?s=72&v=4",
@@ -2648,7 +2659,29 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 1
+        "publicContributions": 0
+    },
+    {
+        "login": "MoussaBallon",
+        "name": "Moussa Boir\u00e9",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/162900336?s=72&u=9245c32aac9ccfe51f5f2667f40984f1f363e378&v=4",
+        "location": "Bamako, Mali",
+        "company": "Freelance",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 4,
+        "publicContributions": 49
+    },
+    {
+        "login": "MoussaFullStack",
+        "name": "Moussa Bah",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65988575?s=72&u=85fe7baa0a18cd649c3beb8a0f0de1fbf0369787&v=4",
+        "location": "Bamako",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "cagooro",
@@ -2717,17 +2750,6 @@
         "publicContributions": 0
     },
     {
-        "login": "telnetafrica",
-        "name": "Telnet Africa",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/155683119?s=72&u=6196f7cee1e0d23bdcdfe734f4eb6e27ca1eee91&v=4",
-        "location": "Mauritania, Mali",
-        "company": "@telnetafrica",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 1
-    },
-    {
         "login": "malideveloppeur",
         "name": "Ngangala Ligbo",
         "avatarUrl": "https://avatars.githubusercontent.com/u/84602678?s=72&u=901e4fe84182d80b0cfea512be31773f2c5ac6f5&v=4",
@@ -2745,6 +2767,17 @@
         "location": "Bamako",
         "company": "Balance-Sarl",
         "twitterUsername": "Balance",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "telnetafrica",
+        "name": "Telnet Africa",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/155683119?s=72&u=6196f7cee1e0d23bdcdfe734f4eb6e27ca1eee91&v=4",
+        "location": "Mauritania, Mali",
+        "company": "@telnetafrica",
+        "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
         "publicContributions": 0
@@ -2791,7 +2824,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 3
+        "publicContributions": 0
     },
     {
         "login": "maticoul",
@@ -2838,17 +2871,6 @@
         "publicContributions": 0
     },
     {
-        "login": "abouba-sang",
-        "name": "Aboubacar Sangare",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/114410180?s=72&u=a21c2104b7d8f80b545bab97317b812877a1fd27&v=4",
-        "location": "Bamako, Mali",
-        "company": "Scandiweb",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "hforlife",
         "name": "El Hadj Abdoulaye Yoro Ha\u00efdara",
         "avatarUrl": "https://avatars.githubusercontent.com/u/124842253?s=72&v=4",
@@ -2860,6 +2882,17 @@
         "publicContributions": 10
     },
     {
+        "login": "abouba-sang",
+        "name": "Aboubacar Sangare",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/114410180?s=72&u=a21c2104b7d8f80b545bab97317b812877a1fd27&v=4",
+        "location": "Bamako, Mali",
+        "company": "Scandiweb",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
         "login": "moussasamina",
         "name": "Moussa Samina",
         "avatarUrl": "https://avatars.githubusercontent.com/u/144951537?s=72&u=34177a5a0cfc99ec516ac499dd8b5a46d1aa4c89&v=4",
@@ -2868,7 +2901,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 9
+        "publicContributions": 19
     },
     {
         "login": "aikio23",
@@ -2893,6 +2926,17 @@
         "publicContributions": 0
     },
     {
+        "login": "SekouSallah",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/125995875?s=72&u=b01a69698ca480b679adc710c85a173cd248bc3a&v=4",
+        "location": "Bamako, Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
         "login": "Babasky",
         "name": "Boureima MAIGA",
         "avatarUrl": "https://avatars.githubusercontent.com/u/100451303?s=72&v=4",
@@ -2901,7 +2945,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 49
+        "publicContributions": 50
     },
     {
         "login": "jakovidulic",
@@ -2915,17 +2959,6 @@
         "publicContributions": 0
     },
     {
-        "login": "SekouSallah",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/125995875?s=72&u=b01a69698ca480b679adc710c85a173cd248bc3a&v=4",
-        "location": "Bamako, Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "gansane94",
         "name": "Gansane Sayoba",
         "avatarUrl": "https://avatars.githubusercontent.com/u/116471077?s=72&v=4",
@@ -2934,7 +2967,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 4
+        "publicContributions": 0
     },
     {
         "login": "GerardNL",
@@ -2967,7 +3000,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 18
+        "publicContributions": 9
     },
     {
         "login": "MamadouWM",
@@ -3011,7 +3044,7 @@
         "twitterUsername": "lonytech",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 6
+        "publicContributions": 8
     },
     {
         "login": "qbit-32",
@@ -3047,6 +3080,17 @@
         "publicContributions": 44
     },
     {
+        "login": "sekou-keita",
+        "name": "Sekou KEITA",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/65968314?s=72&u=452e3ff0b590de8db3ef1a575480e557010ada67&v=4",
+        "location": "Bamako",
+        "company": "Sualasoft",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 1
+    },
+    {
         "login": "lyssanur",
         "name": "NUR ALYSSA AFIZA BTE ZAINOL",
         "avatarUrl": "https://avatars.githubusercontent.com/u/141333252?s=72&u=e195119ebb2a89a6281f8a23727728fe95fa17d4&v=4",
@@ -3069,17 +3113,6 @@
         "publicContributions": 2
     },
     {
-        "login": "sekou-keita",
-        "name": "Sekou KEITA",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/65968314?s=72&u=452e3ff0b590de8db3ef1a575480e557010ada67&v=4",
-        "location": "Bamako",
-        "company": "Sualasoft",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 1
-    },
-    {
         "login": "thiemsprog",
         "name": "Thi\u00e9moko Traore",
         "avatarUrl": "https://avatars.githubusercontent.com/u/147516823?s=72&v=4",
@@ -3099,7 +3132,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 6
+        "publicContributions": 4
     },
     {
         "login": "Obed-97",
@@ -3110,7 +3143,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 7
+        "publicContributions": 5
     },
     {
         "login": "ITC14",
@@ -3154,7 +3187,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 1
+        "publicContributions": 0
     },
     {
         "login": "aokeita",
@@ -3168,17 +3201,6 @@
         "publicContributions": 10
     },
     {
-        "login": "MissTraore24",
-        "name": "Traore24",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/153950303?s=72&u=63b9bd99bae099fbcb18b641ec1df45585c18ce1&v=4",
-        "location": "I'm in Bamako",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 4
-    },
-    {
         "login": "Panga-az",
         "name": "Panga azazia ",
         "avatarUrl": "https://avatars.githubusercontent.com/u/70529525?s=72&v=4",
@@ -3190,17 +3212,6 @@
         "publicContributions": 10
     },
     {
-        "login": "Dayifour3",
-        "name": "S\u00e9kou Dayifourou KEITA",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/123929396?s=72&u=72f5b3d75370ab052ab7fa26ce0d1cc58f2ed17c&v=4",
-        "location": "Bamako, Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 92,
-        "publicContributions": 80
-    },
-    {
         "login": "SuperSheykh",
         "name": "Sekou SIDIBE",
         "avatarUrl": "https://avatars.githubusercontent.com/u/107432644?s=72&u=6e2db3ad98a30fc8e1797be99f9ab80d0feabc13&v=4",
@@ -3210,6 +3221,17 @@
         "followers": 1,
         "privateContributions": 0,
         "publicContributions": 3
+    },
+    {
+        "login": "MissTraore24",
+        "name": "Traore24",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/153950303?s=72&u=63b9bd99bae099fbcb18b641ec1df45585c18ce1&v=4",
+        "location": "I'm in Bamako",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 4
     },
     {
         "login": "ZanCoulibaly",
@@ -3256,33 +3278,11 @@
         "publicContributions": 1
     },
     {
-        "login": "techzenithoff",
-        "name": "TechZenith Technologies",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/166505925?s=72&v=4",
-        "location": "Bamako",
-        "company": "techzenith",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 2
-    },
-    {
         "login": "Ibrahimacisse",
         "name": "CISSE Ibrahima",
         "avatarUrl": "https://avatars.githubusercontent.com/u/95360517?s=72&u=4a6c99df0c0b502d1f46f5691709db7868b59d38&v=4",
         "location": "Bamako",
         "company": "Cisse innovation",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "moussasa",
-        "name": "Moussa Samak\u00e9",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/121200223?s=72&v=4",
-        "location": "Bamako",
-        "company": "R-tech",
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
@@ -3307,7 +3307,29 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 1,
-        "privateContributions": 647,
+        "privateContributions": 646,
+        "publicContributions": 0
+    },
+    {
+        "login": "techzenithoff",
+        "name": "TechZenith Technologies",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/166505925?s=72&v=4",
+        "location": "Bamako",
+        "company": "techzenith",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 2
+    },
+    {
+        "login": "moussasa",
+        "name": "Moussa Samak\u00e9",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/121200223?s=72&v=4",
+        "location": "Bamako",
+        "company": "R-tech",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
         "publicContributions": 0
     },
     {
@@ -3319,7 +3341,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 3
+        "publicContributions": 4
     },
     {
         "login": "pierresodio",
@@ -3363,7 +3385,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 2
+        "publicContributions": 0
     },
     {
         "login": "bambasaba",
@@ -3388,17 +3410,6 @@
         "publicContributions": 0
     },
     {
-        "login": "boubacardoumbia",
-        "name": "Boubacar Doumbia",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/122408867?s=72&v=4",
-        "location": "Bamako",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 2
-    },
-    {
         "login": "moussa2811",
         "name": "Moussa Diakite",
         "avatarUrl": "https://avatars.githubusercontent.com/u/106676505?s=72&u=96e7172e7d4677df5bd5ec3e97c858fa9d4e7c91&v=4",
@@ -3410,6 +3421,17 @@
         "publicContributions": 0
     },
     {
+        "login": "jumeau97",
+        "name": "Alassane SANOGO",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58072574?s=72&u=da83b9dfc864c421d5cdd552d1637e2de00b39d9&v=4",
+        "location": "Bamako, Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 15
+    },
+    {
         "login": "crafto-dnk",
         "name": "Hamady Danioko",
         "avatarUrl": "https://avatars.githubusercontent.com/u/99532146?s=72&v=4",
@@ -3419,17 +3441,6 @@
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 1
-    },
-    {
-        "login": "jumeau97",
-        "name": "Alassane SANOGO",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/58072574?s=72&u=da83b9dfc864c421d5cdd552d1637e2de00b39d9&v=4",
-        "location": "Bamako, Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 14
     },
     {
         "login": "Benoit-dembele",
@@ -3462,7 +3473,7 @@
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 79
+        "publicContributions": 78
     },
     {
         "login": "G1ngerSnaps",
@@ -3498,6 +3509,17 @@
         "publicContributions": 2
     },
     {
+        "login": "David-Telly",
+        "name": "David Telly",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/175571933?s=72&u=d51c9ad47942e9d26ccc150a39c28209085cd20f&v=4",
+        "location": "Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 1
+    },
+    {
         "login": "vandji1",
         "name": "Modibo KONATE",
         "avatarUrl": "https://avatars.githubusercontent.com/u/17184105?s=72&v=4",
@@ -3506,7 +3528,7 @@
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 30
+        "publicContributions": 31
     },
     {
         "login": "einalem1234",
@@ -3529,6 +3551,17 @@
         "followers": 0,
         "privateContributions": 1,
         "publicContributions": 0
+    },
+    {
+        "login": "JunEmpires",
+        "name": "Jun",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/197320421?s=72&v=4",
+        "location": "Bamako/Mali",
+        "company": "JunEmpires ",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 4
     },
     {
         "login": "KatrotfellJaniner",
@@ -3595,17 +3628,6 @@
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 1
-    },
-    {
-        "login": "senatorpagemoot",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/183248645?s=72&u=d98d23161ab8615325a02cfe05514abf25beef46&v=4",
-        "location": "Mali (ML)",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
     },
     {
         "login": "AileneVinson",
@@ -3685,17 +3707,6 @@
         "publicContributions": 0
     },
     {
-        "login": "nouhoum-ibrahim-traore",
-        "name": "Nouhoum IbraHim Traor\u00e9",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/43589827?s=72&u=4d9fbb3cce42896352f38e77dbbbf5f3dead1fa4&v=4",
-        "location": "Bamako, Mali",
-        "company": "Coursera",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "amadou71485080",
         "name": "Amadou71485080",
         "avatarUrl": "https://avatars.githubusercontent.com/u/64094751?s=72&v=4",
@@ -3727,6 +3738,39 @@
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 0
+    },
+    {
+        "login": "nouhoum-ibrahim-traore",
+        "name": "Nouhoum Ibrahim Traor\u00e9",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/43589827?s=72&v=4",
+        "location": "Bamako, Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "Yaishaa",
+        "name": "A\u00efssata TRAORE ",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/184234710?s=72&v=4",
+        "location": "Bamalo, Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 12
+    },
+    {
+        "login": "McOriginal",
+        "name": "Mohamed Cisse",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/116883418?s=72&u=f052ed446236ead17caa0fa26b4b24dfad9efd26&v=4",
+        "location": "Mali(Bamako)",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 108
     },
     {
         "login": "vissalan",
@@ -3768,17 +3812,6 @@
         "location": "Mali",
         "company": "Talla S.A.R.L",
         "twitterUsername": "cheicktsissoko",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "cheickoumartraore",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/85294108?s=72&v=4",
-        "location": "Mali",
-        "company": "Cellule SIFOR",
-        "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 0
@@ -3883,6 +3916,17 @@
         "publicContributions": 6
     },
     {
+        "login": "cheickoumartraore",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/85294108?s=72&v=4",
+        "location": "Mali",
+        "company": "Cellule SIFOR",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
         "login": "rebmals",
         "name": "Amber Stewart",
         "avatarUrl": "https://avatars.githubusercontent.com/u/21157629?s=72&v=4",
@@ -3971,17 +4015,6 @@
         "publicContributions": 0
     },
     {
-        "login": "Diango700",
-        "name": "Diango700",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/59739774?s=72&u=dfb2a0f4c9233ad9924d042b49614151ff926c14&v=4",
-        "location": "MALI",
-        "company": "African Center of Excellence,MRTC,LABOREM",
-        "twitterUsername": "DiangoMaiga",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "tfamata",
         "name": "fata12",
         "avatarUrl": "https://avatars.githubusercontent.com/u/59017872?s=72&v=4",
@@ -4048,17 +4081,6 @@
         "publicContributions": 0
     },
     {
-        "login": "gabmass",
-        "name": "Gabriel Mass",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/12938273?s=72&u=7cbd6e4860db9a847e6a33c80e6ffd83d822ebcd&v=4",
-        "location": "Timbuktu",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "berthesory",
         "name": "Sory",
         "avatarUrl": "https://avatars.githubusercontent.com/u/188729124?s=72&v=4",
@@ -4070,11 +4092,44 @@
         "publicContributions": 9
     },
     {
+        "login": "Diango700",
+        "name": "Diango700",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59739774?s=72&u=dfb2a0f4c9233ad9924d042b49614151ff926c14&v=4",
+        "location": "MALI",
+        "company": "African Center of Excellence,MRTC,LABOREM",
+        "twitterUsername": "DiangoMaiga",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
         "login": "mali-developpeur",
         "name": "Mali Developpeur",
         "avatarUrl": "https://avatars.githubusercontent.com/u/190105915?s=72&u=d9c5f9e0e231100da6594d67e377e84b3a8baf43&v=4",
         "location": "Bamako",
         "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 1
+    },
+    {
+        "login": "gabmass",
+        "name": "Gabriel Mass",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/12938273?s=72&u=7cbd6e4860db9a847e6a33c80e6ffd83d822ebcd&v=4",
+        "location": "Timbuktu",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "Cheickne-Kanoute",
+        "name": "Cheickne Kanoute",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/192629817?s=72&v=4",
+        "location": "Mali",
+        "company": "Ckan",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
@@ -4147,17 +4202,6 @@
         "publicContributions": 0
     },
     {
-        "login": "INTERCOM-MALI",
-        "name": "INTERCOM",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/56230251?s=72&v=4",
-        "location": "MALI",
-        "company": "INTERCOM",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "devsambou",
         "name": "Sambou Tounkara",
         "avatarUrl": "https://avatars.githubusercontent.com/u/127883427?s=72&v=4",
@@ -4167,6 +4211,17 @@
         "followers": 0,
         "privateContributions": 89,
         "publicContributions": 35
+    },
+    {
+        "login": "INTERCOM-MALI",
+        "name": "INTERCOM",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/56230251?s=72&v=4",
+        "location": "MALI",
+        "company": "INTERCOM",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "dcsambaa",
@@ -4356,6 +4411,17 @@
         "publicContributions": 0
     },
     {
+        "login": "O1290G",
+        "name": "Guindo Oumar ",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/194091374?s=72&v=4",
+        "location": "Bamako ",
+        "company": "Y\u00e9len-Solar ",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 4
+    },
+    {
         "login": "OptimisticImpulse",
         "name": "You Know Me!",
         "avatarUrl": "https://avatars.githubusercontent.com/u/111015172?s=72&u=496b3b98b24e225343ebe7d767baf9b46a55e2ed&v=4",
@@ -4364,7 +4430,7 @@
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 401
+        "publicContributions": 373
     },
     {
         "login": "FoussDEM",
@@ -4576,14 +4642,14 @@
         "publicContributions": 0
     },
     {
-        "login": "Fadiaby",
+        "login": "darkangelwebshot",
         "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/110410165?s=72&v=4",
-        "location": "Mali",
-        "company": "THL TECHNOLOGIES",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/183202030?s=72&u=ea1ef2aeaae3b9c23d33d8b41e317f78183fbb2d&v=4",
+        "location": "Mali (ML)",
+        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 0,
-        "privateContributions": 469,
+        "privateContributions": 0,
         "publicContributions": 0
     },
     {
@@ -4598,14 +4664,14 @@
         "publicContributions": 0
     },
     {
-        "login": "darkangelwebshot",
+        "login": "Fadiaby",
         "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/183202030?s=72&u=ea1ef2aeaae3b9c23d33d8b41e317f78183fbb2d&v=4",
-        "location": "Mali (ML)",
-        "company": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/110410165?s=72&v=4",
+        "location": "Mali",
+        "company": "THL TECHNOLOGIES",
         "twitterUsername": "undefined value",
         "followers": 0,
-        "privateContributions": 0,
+        "privateContributions": 469,
         "publicContributions": 0
     },
     {
@@ -4719,17 +4785,6 @@
         "publicContributions": 0
     },
     {
-        "login": "Mohame982",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/179042608?s=72&v=4",
-        "location": "Mali",
-        "company": "Commer\u00e7ant ",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 3
-    },
-    {
         "login": "buttadiba",
         "name": "adibanoor",
         "avatarUrl": "https://avatars.githubusercontent.com/u/177359351?s=72&u=1a629048cd990c4309c2eb87f2a74daa1356359c&v=4",
@@ -4774,15 +4829,37 @@
         "publicContributions": 37
     },
     {
-        "login": "adamstrvor",
-        "name": "TRAORE ADAMA SEYDOU",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/81414298?s=72&u=c7450b9472c791d4f1e9149fa2b0710071286189&v=4",
-        "location": "Bamako,Mali",
-        "company": "SRM university",
-        "twitterUsername": "adamstrvor",
+        "login": "w66098244k",
+        "name": "Wakanda ",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/192269770?s=72&u=1fc6ec9b8d39149ad1c2fb29dce231191b1c9445&v=4",
+        "location": "MALI",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 3
+    },
+    {
+        "login": "Aissatha",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/151942027?s=72&v=4",
+        "location": "Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 26
+    },
+    {
+        "login": "Moussa-cheickna-fofana",
+        "name": "Moussa Fofana",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/193489692?s=72&u=de7574d706312dd05cfc2d926f145490cd2f4cd1&v=4",
+        "location": "Bamako,Mali",
+        "company": "@Caniidio @Fofmart",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 2
     },
     {
         "login": "Hamady794",
@@ -4796,37 +4873,26 @@
         "publicContributions": 4
     },
     {
-        "login": "w66098244k",
-        "name": "Wakanda ",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/192269770?s=72&u=1fc6ec9b8d39149ad1c2fb29dce231191b1c9445&v=4",
-        "location": "MALI",
-        "company": "undefined value",
+        "login": "adamstrvor",
+        "name": "TRAORE ADAMA SEYDOU",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81414298?s=72&u=c7450b9472c791d4f1e9149fa2b0710071286189&v=4",
+        "location": "Bamako,Mali",
+        "company": "SRM university",
+        "twitterUsername": "adamstrvor",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 16
+    },
+    {
+        "login": "Mohame982",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/179042608?s=72&v=4",
+        "location": "Mali",
+        "company": "Commer\u00e7ant ",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 3
-    },
-    {
-        "login": "gutsyheartrennix",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/183311717?s=72&u=de2c0475660f67863187250845e7d028db9f9790&v=4",
-        "location": "Mali (ML)",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "Aissatha",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/151942027?s=72&v=4",
-        "location": "Mali",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 37
     },
     {
         "login": "djibidl7",
@@ -4969,7 +5035,7 @@
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 18
+        "publicContributions": 39
     },
     {
         "login": "xalip72",
@@ -5027,17 +5093,6 @@
         "publicContributions": 0
     },
     {
-        "login": "mosisko",
-        "name": "Mohamed SISSOKO",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/40009637?s=72&u=7c0a8f1cf400615ed7ea0b6b575be2874f380265&v=4",
-        "location": "Mali",
-        "company": "SYM Digital",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "HuubMunst",
         "name": "Huub Munstege",
         "avatarUrl": "https://avatars.githubusercontent.com/u/1271173?s=72&v=4",
@@ -5082,11 +5137,22 @@
         "publicContributions": 0
     },
     {
-        "login": "GAUSST",
-        "name": "Gaston",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/104411235?s=72&v=4",
-        "location": "Bamako, Mali",
-        "company": "Aplika Technology",
+        "login": "Kumiko-ware",
+        "name": "Software without nails and glue",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/112118449?s=72&u=4c9844c2f06cf7d076dde731b4f74e1cf07c640c&v=4",
+        "location": "Timbuktu",
+        "company": "Tanganica & assoc.",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 2
+    },
+    {
+        "login": "mosisko",
+        "name": "Mohamed SISSOKO",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40009637?s=72&u=7c0a8f1cf400615ed7ea0b6b575be2874f380265&v=4",
+        "location": "Mali",
+        "company": "SYM Digital",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
@@ -5104,15 +5170,15 @@
         "publicContributions": 1
     },
     {
-        "login": "Kumiko-ware",
-        "name": "Software without nails and glue",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112118449?s=72&u=4c9844c2f06cf7d076dde731b4f74e1cf07c640c&v=4",
-        "location": "Timbuktu",
-        "company": "Tanganica & assoc.",
+        "login": "GAUSST",
+        "name": "Gaston",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104411235?s=72&v=4",
+        "location": "Bamako, Mali",
+        "company": "Aplika Technology",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 3
+        "publicContributions": 0
     },
     {
         "login": "mnkenfack",
@@ -5214,22 +5280,22 @@
         "publicContributions": 0
     },
     {
-        "login": "mdsceo",
-        "name": "Mahamadou Sidibe",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/104699709?s=72&v=4",
-        "location": "Mali",
-        "company": "undefined value",
+        "login": "AbdoulayeHAIDARA",
+        "name": "Abdoulaye HAIDARA",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/113727787?s=72&u=decb48752c3d4157305a01a3e99baffcc7eea493&v=4",
+        "location": "Bamako",
+        "company": "UoPeople",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 0
     },
     {
-        "login": "AbdoulayeHAIDARA",
-        "name": "Abdoulaye HAIDARA",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/113727787?s=72&u=decb48752c3d4157305a01a3e99baffcc7eea493&v=4",
-        "location": "Bamako",
-        "company": "UoPeople",
+        "login": "DevComputerLove",
+        "name": "MODIBO NIARE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39375795?s=72&u=87ccd514b03328305bec7868ada7ecfc0400b8d8&v=4",
+        "location": "MALI BAMAKO",
+        "company": "BOLOLO",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
@@ -5247,15 +5313,37 @@
         "publicContributions": 1
     },
     {
-        "login": "DevComputerLove",
-        "name": "MODIBO NIARE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/39375795?s=72&u=87ccd514b03328305bec7868ada7ecfc0400b8d8&v=4",
-        "location": "MALI BAMAKO",
-        "company": "BOLOLO",
+        "login": "Moustapha1957",
+        "name": "YaMoustapha",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/112630469?s=72&u=68c062723039131a81f0026c2a3f255b374cb7b9&v=4",
+        "location": "Mali/Bamako",
+        "company": "Imperis SARL",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 0
+    },
+    {
+        "login": "mdsceo",
+        "name": "Mahamadou Sidibe",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/104699709?s=72&v=4",
+        "location": "Mali",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "codeangel223",
+        "name": "CodeANGEL",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/174749058?s=72&u=577bcb708e00be31f4c5180497a23d7b4883cf00&v=4",
+        "location": "Bamako, Mali",
+        "company": "CodeANGEL",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 6
     },
     {
         "login": "Msangofficiel",
@@ -5267,28 +5355,6 @@
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 4
-    },
-    {
-        "login": "codeangel223",
-        "name": "CodeANGEL",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/174749058?s=72&u=577bcb708e00be31f4c5180497a23d7b4883cf00&v=4",
-        "location": "Bamako, Mali",
-        "company": "CodeANGEL",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 4
-    },
-    {
-        "login": "Moustapha1957",
-        "name": "YaMoustapha",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/112630469?s=72&u=68c062723039131a81f0026c2a3f255b374cb7b9&v=4",
-        "location": "Mali/Bamako",
-        "company": "Imperis SARL",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 3
     },
     {
         "login": "Malet1995",
