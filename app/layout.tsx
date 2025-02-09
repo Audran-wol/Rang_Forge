@@ -12,11 +12,22 @@ export const metadata: Metadata = {
     google: 'PxLdBJniNOH-1YpAQbB7mQ0M1YdegAiEJljxW7BRgVM',
   },
   title: {
-    default: "Rang Forge - GitHub User Rankings Worldwide",
-    template: "%s | Rang Forge"
+    default: "GitHub Rankings - Global Developer Leaderboard | Rang Forge",
+    template: "%s | GitHub Rankings - Rang Forge"
   },
-  description: "Discover and compare top GitHub developers worldwide with Rang Forge. View rankings based on contributions, followers, and achievements. Find the most influential developers in your country.",
-  keywords: ['github rankings', 'developer rankings', 'rang forge', 'github leaderboard', 'top developers', 'developer metrics'],
+  description: "Explore GitHub rankings and discover top developers worldwide. Compare developers by country, contributions, and influence. Real-time GitHub user statistics and comprehensive developer leaderboard.",
+  keywords: [
+    'github rankings', 
+    'github leaderboard', 
+    'top github developers',
+    'developer rankings',
+    'github user statistics',
+    'github contributors ranking',
+    'best developers by country',
+    'open source contributors',
+    'developer metrics',
+    'github profile ranking'
+  ],
   authors: [{ name: 'Rang Forge Team' }],
   creator: 'Rang Forge',
   publisher: 'Rang Forge',
@@ -26,28 +37,31 @@ export const metadata: Metadata = {
     googleBot: {
       index: true,
       follow: true,
+      'max-snippet': -1,
+      'max-image-preview': 'large',
+      'max-video-preview': -1
     },
   },
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: 'https://rang-forge.netlify.app',
-    siteName: 'Rang Forge',
-    title: 'Rang Forge - GitHub User Rankings Worldwide',
-    description: 'Discover and compare top GitHub developers worldwide. Find the most influential developers in your country.',
+    siteName: 'GitHub Rankings - Rang Forge',
+    title: 'GitHub Rankings - Global Developer Leaderboard | Rang Forge',
+    description: 'Explore GitHub rankings and discover top developers worldwide. Compare developers by country, contributions, and influence. Real-time GitHub user statistics.',
     images: [
       {
         url: '/og-image.png',
         width: 1200,
         height: 630,
-        alt: 'Rang Forge - Developer Rankings',
+        alt: 'GitHub Rankings - Global Developer Leaderboard',
       },
     ],
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'Rang Forge - GitHub User Rankings Worldwide',
-    description: 'Discover and compare top GitHub developers worldwide. Find the most influential developers in your country.',
+    title: 'GitHub Rankings - Global Developer Leaderboard | Rang Forge',
+    description: 'Explore GitHub rankings and discover top developers worldwide. Compare developers by country, contributions, and influence.',
     images: ['/og-image.png'],
     creator: '@rangforge',
   },

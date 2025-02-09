@@ -12,33 +12,42 @@ import { TeamSection } from "@/components/layout/sections/team";
 import { TestimonialSection } from "@/components/layout/sections/testimonial";
 
 export const metadata = {
-  title: "Rank Forge - Global GitHub Contributor Rankings",
-  description: "Discover top GitHub contributors worldwide with Rank Forge. See rankings, achievements, and open-source contributions from developers across the globe.",
-  keywords: ["GitHub rankings", "top contributors", "open source", "developer rankings", "GitHub stats"],
+  title: "GitHub Rankings - Find Top Developers Worldwide | Rang Forge",
+  description: "Discover and compare top GitHub developers globally. View real-time rankings by country, contributions, and influence. Find the most talented developers in your region with our comprehensive GitHub statistics.",
+  keywords: [
+    "GitHub rankings",
+    "top GitHub developers",
+    "developer leaderboard",
+    "GitHub statistics",
+    "open source contributors",
+    "developer rankings by country",
+    "GitHub user metrics",
+    "best developers worldwide",
+    "GitHub contribution rankings",
+    "developer influence scores"
+  ],
   openGraph: {
     type: "website",
     url: "https://rang-forge.netlify.app/",
-    title: "Rank Forge - Global GitHub Contributor Rankings",
-    description: "Discover top GitHub contributors worldwide with Rank Forge. See rankings, achievements, and open-source contributions from developers across the globe.",
+    title: "GitHub Rankings - Find Top Developers Worldwide | Rang Forge",
+    description: "Discover and compare top GitHub developers globally. View real-time rankings by country, contributions, and influence. Find the most talented developers in your region.",
     images: [
       {
-        url: "https://res.cloudinary.com/dbzv9xfjp/image/upload/v1723499276/og-images/shadcn-vue.jpg",
+        url: "/og-image.png",
         width: 1200,
         height: 630,
-        alt: "Rank Forge - Global GitHub Rankings",
+        alt: "GitHub Global Developer Rankings",
       },
     ],
-    siteName: "Rank Forge",
+    siteName: "GitHub Rankings - Rang Forge",
   },
   twitter: {
     card: "summary_large_image",
-    site: "@RankForge",
-    creator: "@RankForge",
-    title: "Rank Forge - Global GitHub Contributor Rankings",
-    description: "Discover top GitHub contributors worldwide with Rank Forge. See rankings, achievements, and open-source contributions from developers across the globe.",
-    images: [
-      "https://res.cloudinary.com/dbzv9xfjp/image/upload/v1723499276/og-images/shadcn-vue.jpg",
-    ],
+    site: "@RangForge",
+    creator: "@RangForge",
+    title: "GitHub Rankings - Find Top Developers Worldwide | Rang Forge",
+    description: "Discover and compare top GitHub developers globally. View real-time rankings by country, contributions, and influence.",
+    images: ["/og-image.png"],
   },
 };
 
@@ -46,13 +55,30 @@ export default function Home() {
   const jsonLd = {
     "@context": "https://schema.org",
     "@type": "WebSite",
-    name: "Rank Forge",
-    url: "https://rankforge.com",
-    description: "Global GitHub Contributor Rankings and Statistics",
+    name: "GitHub Rankings - Rang Forge",
+    url: "https://rang-forge.netlify.app",
+    description: "Global GitHub developer rankings and statistics platform",
     potentialAction: {
       "@type": "SearchAction",
-      target: "https://rankforge.com/search?q={search_term_string}",
+      target: {
+        "@type": "EntryPoint",
+        urlTemplate: "https://rang-forge.netlify.app/ranking?search={search_term_string}"
+      },
       "query-input": "required name=search_term_string"
+    },
+    about: {
+      "@type": "Thing",
+      name: "GitHub Developer Rankings",
+      description: "Comprehensive platform for discovering and comparing top GitHub developers worldwide"
+    },
+    audience: {
+      "@type": "Audience",
+      audienceType: "Developers, Tech Recruiters, Open Source Contributors"
+    },
+    provider: {
+      "@type": "Organization",
+      name: "Rang Forge",
+      description: "Provider of GitHub developer rankings and statistics"
     }
   };
 
