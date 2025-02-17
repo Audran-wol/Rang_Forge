@@ -6,7 +6,7 @@
         "location": "San Marino",
         "company": "@coinspect",
         "twitterUsername": "agustingianni",
-        "followers": 205,
+        "followers": 206,
         "privateContributions": 0,
         "publicContributions": 0
     },
@@ -15,11 +15,11 @@
         "name": "Michele Righi",
         "avatarUrl": "https://avatars.githubusercontent.com/u/56556806?s=72&u=1601262bdba22f1637f82850c662d9045b4be044&v=4",
         "location": "San Marino",
-        "company": "SCM Group",
+        "company": "@scmgroupspa",
         "twitterUsername": "undefined value",
-        "followers": 63,
-        "privateContributions": 858,
-        "publicContributions": 489
+        "followers": 67,
+        "privateContributions": 876,
+        "publicContributions": 300
     },
     {
         "login": "nicorsm",
@@ -29,8 +29,8 @@
         "company": "@letvarhq",
         "twitterUsername": "nicorsm",
         "followers": 32,
-        "privateContributions": 1125,
-        "publicContributions": 20
+        "privateContributions": 1120,
+        "publicContributions": 18
     },
     {
         "login": "stfDeveloper",
@@ -51,8 +51,8 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 25,
-        "privateContributions": 626,
-        "publicContributions": 28
+        "privateContributions": 615,
+        "publicContributions": 30
     },
     {
         "login": "lorextera",
@@ -73,30 +73,19 @@
         "company": "@IBM",
         "twitterUsername": "undefined value",
         "followers": 17,
-        "privateContributions": 0,
-        "publicContributions": 3
-    },
-    {
-        "login": "NeedleCoin",
-        "name": "Needle Coin",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/28305941?s=72&u=18dc9ea7f441151ca8764a650aef8b3267c9b91f&v=4",
-        "location": "San Marino",
-        "company": "NeedleCoin",
-        "twitterUsername": "undefined value",
-        "followers": 16,
-        "privateContributions": 0,
-        "publicContributions": 0
+        "privateContributions": 1,
+        "publicContributions": 2
     },
     {
         "login": "its-hmny",
         "name": "Enea Guidi",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/50141843?s=72&u=7f85d6364f92c36db4d755dcae377b75eeeacbb2&v=4",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50141843?s=72&u=0c4bf025651a06d41deeaaeca30b9424826ac170&v=4",
         "location": "San Marino",
         "company": "BKN301",
         "twitterUsername": "its_hmny",
         "followers": 16,
-        "privateContributions": 935,
-        "publicContributions": 53
+        "privateContributions": 1009,
+        "publicContributions": 52
     },
     {
         "login": "TAIPANBOX",
@@ -110,15 +99,15 @@
         "publicContributions": 0
     },
     {
-        "login": "schiaro98",
-        "name": "Davide Schiaroli",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/23106953?s=72&u=f5d8ceaf22a435442e4c742870fa7dc37c9efd08&v=4",
-        "location": "Ancona -> Cesena -> San Marino",
-        "company": "Unibo",
+        "login": "NeedleCoin",
+        "name": "Needle Coin",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/28305941?s=72&u=18dc9ea7f441151ca8764a650aef8b3267c9b91f&v=4",
+        "location": "San Marino",
+        "company": "NeedleCoin",
         "twitterUsername": "undefined value",
-        "followers": 14,
+        "followers": 15,
         "privateContributions": 0,
-        "publicContributions": 45
+        "publicContributions": 0
     },
     {
         "login": "v1rx",
@@ -139,8 +128,8 @@
         "company": "@grafana",
         "twitterUsername": "llandy3d",
         "followers": 13,
-        "privateContributions": 465,
-        "publicContributions": 588
+        "privateContributions": 393,
+        "publicContributions": 610
     },
     {
         "login": "gcardi",
@@ -150,8 +139,8 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 12,
-        "privateContributions": 258,
-        "publicContributions": 43
+        "privateContributions": 275,
+        "publicContributions": 44
     },
     {
         "login": "Restoncomic",
@@ -165,6 +154,17 @@
         "publicContributions": 0
     },
     {
+        "login": "simorina",
+        "name": "Rinaldi Simone",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44091399?s=72&u=dc7aba983ea48053173062056ba3c99dd5a16607&v=4",
+        "location": "San Marino",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 10,
+        "privateContributions": 0,
+        "publicContributions": 53
+    },
+    {
         "login": "damiandominella",
         "name": "dodo",
         "avatarUrl": "https://avatars.githubusercontent.com/u/16267714?s=72&u=db6c5c72894df721580c121147aa5cfdddb0b3d4&v=4",
@@ -172,7 +172,7 @@
         "company": "Golee",
         "twitterUsername": "undefined value",
         "followers": 9,
-        "privateContributions": 1488,
+        "privateContributions": 1647,
         "publicContributions": 2
     },
     {
@@ -183,19 +183,8 @@
         "company": "undefined value",
         "twitterUsername": "N1K0232",
         "followers": 9,
-        "privateContributions": 10,
-        "publicContributions": 53
-    },
-    {
-        "login": "tomwhoooo",
-        "name": "Z. Tom Hu",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/23285765?s=72&u=bb188b3c8cc1e38e747f6bb08cc47357169e5a0f&v=4",
-        "location": "San Marino, California",
-        "company": "UC Berkeley",
-        "twitterUsername": "undefined value",
-        "followers": 8,
-        "privateContributions": 671,
-        "publicContributions": 17
+        "privateContributions": 15,
+        "publicContributions": 52
     },
     {
         "login": "Wentianlong",
@@ -204,9 +193,20 @@
         "location": "505 ,Gaynelle Locks ,Carleneland ,Texas ,San Marino",
         "company": "Buckridge, Kautzer and Flatley",
         "twitterUsername": "undefined value",
-        "followers": 8,
+        "followers": 9,
         "privateContributions": 0,
         "publicContributions": 0
+    },
+    {
+        "login": "tomwhoooo",
+        "name": "Tom Hu",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/23285765?s=72&u=bb188b3c8cc1e38e747f6bb08cc47357169e5a0f&v=4",
+        "location": "San Marino, California",
+        "company": "UC Berkeley",
+        "twitterUsername": "undefined value",
+        "followers": 8,
+        "privateContributions": 755,
+        "publicContributions": 17
     },
     {
         "login": "El2829",
@@ -217,7 +217,7 @@
         "twitterUsername": "undefined value",
         "followers": 7,
         "privateContributions": 0,
-        "publicContributions": 3
+        "publicContributions": 1
     },
     {
         "login": "CastFX",
@@ -227,8 +227,8 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 4,
-        "privateContributions": 91,
-        "publicContributions": 27
+        "privateContributions": 92,
+        "publicContributions": 35
     },
     {
         "login": "agavss",
@@ -305,7 +305,7 @@
         "twitterUsername": "GlucaBerardi",
         "followers": 3,
         "privateContributions": 0,
-        "publicContributions": 57
+        "publicContributions": 42
     },
     {
         "login": "AldoJuniorSimoncini",
@@ -341,17 +341,6 @@
         "publicContributions": 0
     },
     {
-        "login": "deBrian07",
-        "name": "Brian C.",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/94733710?s=72&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4",
-        "location": "San Marino, CA",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 3,
-        "privateContributions": 0,
-        "publicContributions": 15
-    },
-    {
         "login": "thu105",
         "name": "Hein Moe Thu",
         "avatarUrl": "https://avatars.githubusercontent.com/u/21339527?s=72&v=4",
@@ -370,7 +359,7 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 2,
-        "privateContributions": 102,
+        "privateContributions": 90,
         "publicContributions": 3
     },
     {
@@ -404,7 +393,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 9,
-        "publicContributions": 0
+        "publicContributions": 1
     },
     {
         "login": "textarea",
@@ -437,7 +426,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 218
+        "publicContributions": 172
     },
     {
         "login": "Frikazoid",
@@ -459,7 +448,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 1
+        "publicContributions": 4
     },
     {
         "login": "mircotamburini",
@@ -471,6 +460,17 @@
         "followers": 2,
         "privateContributions": 0,
         "publicContributions": 0
+    },
+    {
+        "login": "deBrian07",
+        "name": "Brian C.",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94733710?s=72&u=b2073f03b7b034c23725d158aca4f20c898c3fed&v=4",
+        "location": "San Marino, CA",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 45
     },
     {
         "login": "eliapasqualini",
@@ -492,17 +492,17 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 4
     },
     {
         "login": "brunodotgg",
         "name": "Bruno",
         "avatarUrl": "https://avatars.githubusercontent.com/u/35509391?s=72&u=11291fe9a3b0bbfb1c711515e8718aa3957aed56&v=4",
         "location": "San Marino",
-        "company": "Magic Srl",
+        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 1,
-        "privateContributions": 401,
+        "privateContributions": 1756,
         "publicContributions": 2
     },
     {
@@ -535,7 +535,7 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 1,
-        "privateContributions": 779,
+        "privateContributions": 632,
         "publicContributions": 0
     },
     {
@@ -547,18 +547,7 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 129
-    },
-    {
-        "login": "maxmonterumisi",
-        "name": "Max Monterumisi",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/19281332?s=72&u=a5d210c07ba4b35f9bd3dcdbcd0b319dea2908a7&v=4",
-        "location": "San Marino",
-        "company": "Passepartout s.p.a.",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 163
     },
     {
         "login": "matteorossi-thespacesm",
@@ -570,6 +559,17 @@
         "followers": 1,
         "privateContributions": 0,
         "publicContributions": 1
+    },
+    {
+        "login": "maxmonterumisi",
+        "name": "Max Monterumisi",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19281332?s=72&u=a5d210c07ba4b35f9bd3dcdbcd0b319dea2908a7&v=4",
+        "location": "San Marino",
+        "company": "Passepartout s.p.a.",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "simonefalcini",
@@ -660,6 +660,17 @@
         "publicContributions": 0
     },
     {
+        "login": "danilo-jlggroup-net",
+        "name": "Danilo Ercoli",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/198727249?s=72&u=839b5d5916c7fae7ccd9c72f702695c34c529b7a&v=4",
+        "location": "San Marino",
+        "company": "JLG-Group-S-r-l",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 1
+    },
+    {
         "login": "madmarco",
         "name": "Marco",
         "avatarUrl": "https://avatars.githubusercontent.com/u/3135434?s=72&v=4",
@@ -693,22 +704,22 @@
         "publicContributions": 0
     },
     {
+        "login": "mdb-extera",
+        "name": "Marco Del Bianco",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/197268775?s=72&u=0003be54fb1ebb31b9b744d51e245262dbce09a9&v=4",
+        "location": "San Marino. SM",
+        "company": "@extera",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 1
+    },
+    {
         "login": "dbagnai",
         "name": "Daniele Bagnai",
         "avatarUrl": "https://avatars.githubusercontent.com/u/19534130?s=72&v=4",
         "location": "San Marino",
         "company": "Web Mouse Consulting Srl",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "dilleronbadger",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/183322999?s=72&u=ec9c22737a333317f69ec460f867d021f5227917&v=4",
-        "location": "San Marino (SM)",
-        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
@@ -737,23 +748,23 @@
         "publicContributions": 0
     },
     {
-        "login": "robertgasperoni",
-        "name": "Robert Gasperoni",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/38502586?s=72&v=4",
-        "location": "San Marino",
-        "company": "undefined value",
-        "twitterUsername": "GasperoniRobert",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "passepartout-spa-sistemi",
         "name": "undefined value",
         "avatarUrl": "https://avatars.githubusercontent.com/u/164530652?s=72&u=9a30e43707bf6a39e785c925b29040672358caad&v=4",
         "location": "San Marino",
         "company": "Passepartout S.p.A.",
         "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "robertgasperoni",
+        "name": "Robert Gasperoni",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/38502586?s=72&v=4",
+        "location": "San Marino",
+        "company": "undefined value",
+        "twitterUsername": "GasperoniRobert",
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 0
@@ -781,17 +792,6 @@
         "publicContributions": 0
     },
     {
-        "login": "Uff182",
-        "name": "Andrea Candini",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/11455502?s=72&u=e9cd2e2f8b5c2d6409d449541b26e823c28d3db5&v=4",
-        "location": "San Marino",
-        "company": "Prestalia",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 1
-    },
-    {
         "login": "cardinal76",
         "name": "Marco Cardinali",
         "avatarUrl": "https://avatars.githubusercontent.com/u/2583886?s=72&u=a364945912b2a36ca86b0308422e5c0414e79c97&v=4",
@@ -801,6 +801,17 @@
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 0
+    },
+    {
+        "login": "Uff182",
+        "name": "Andrea Candini",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/11455502?s=72&u=e9cd2e2f8b5c2d6409d449541b26e823c28d3db5&v=4",
+        "location": "San Marino",
+        "company": "Prestalia",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 1
     },
     {
         "login": "davideonestini",
@@ -836,6 +847,17 @@
         "publicContributions": 1
     },
     {
+        "login": "jacquelinaWatson",
+        "name": "Jackie Watson",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35842196?s=72&u=b84047e662af6c012886f9bcf3b7bc2a649c0ec6&v=4",
+        "location": "San Marino",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 76
+    },
+    {
         "login": "dennistiboni-extera",
         "name": "Dennis Tiboni",
         "avatarUrl": "https://avatars.githubusercontent.com/u/29975619?s=72&v=4",
@@ -844,7 +866,7 @@
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 1
     },
     {
         "login": "mirconardini",
@@ -858,6 +880,17 @@
         "publicContributions": 0
     },
     {
+        "login": "clagenna",
+        "name": "Claudio Gennari",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/3160018?s=72&v=4",
+        "location": "san marino",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 112
+    },
+    {
         "login": "Netgenetic",
         "name": "Netgenetic S.r.l.",
         "avatarUrl": "https://avatars.githubusercontent.com/u/149372945?s=72&v=4",
@@ -867,17 +900,6 @@
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 1
-    },
-    {
-        "login": "clagenna",
-        "name": "Claudio Gennari",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/3160018?s=72&v=4",
-        "location": "san marino",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 89
     },
     {
         "login": "Cetrapay",
@@ -925,14 +947,14 @@
     },
     {
         "login": "NiykeeMoore",
-        "name": "Richard",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/167813727?s=72&v=4",
+        "name": "Vladimir",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/167813727?s=72&u=c8a838fedcedc5141b446bcdef3b1c03dd1f942d&v=4",
         "location": "San-Marino",
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 104
+        "publicContributions": 108
     },
     {
         "login": "FIAMMAORO",
@@ -975,8 +997,8 @@
         "company": "Prestalia",
         "twitterUsername": "undefined value",
         "followers": 0,
-        "privateContributions": 374,
-        "publicContributions": 13
+        "privateContributions": 448,
+        "publicContributions": 12
     },
     {
         "login": "dribelab",
@@ -994,17 +1016,6 @@
         "name": "Fabio Massimo D'Ambrosio",
         "avatarUrl": "https://avatars.githubusercontent.com/u/110158592?s=72&u=b7f1b0230a6937b4544193dded22630d1c8a3a3d&v=4",
         "location": "Marino, Italy",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "zigzagcrusher",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/183228154?s=72&u=368a85a59e8ff26740d87a5b877242dfaf632bf3&v=4",
-        "location": "San Marino (SM)",
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 0,
@@ -1045,11 +1056,11 @@
         "publicContributions": 0
     },
     {
-        "login": "pier-zano",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/2168066?s=72&v=4",
-        "location": "san marino",
-        "company": "undefined value",
+        "login": "lorenzobob0",
+        "name": "Lorenzo Moretti",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/7973462?s=72&u=0c1f3664d5f7f11e6106d9f793736ac214f91598&v=4",
+        "location": "San Marino",
+        "company": "Artemide Aste s.r.l. - Dea Moneta s.r.l.",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
@@ -1063,26 +1074,15 @@
         "company": "Extera SRL",
         "twitterUsername": "undefined value",
         "followers": 0,
-        "privateContributions": 2,
-        "publicContributions": 0
+        "privateContributions": 3,
+        "publicContributions": 1
     },
     {
-        "login": "dakmakwebshot",
+        "login": "pier-zano",
         "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/183093593?s=72&u=d6449bb31f5193395258830836674915e0f2fd10&v=4",
-        "location": "San Marino (SM)",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2168066?s=72&v=4",
+        "location": "san marino",
         "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "lorenzobob0",
-        "name": "Lorenzo Moretti",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/7973462?s=72&u=0c1f3664d5f7f11e6106d9f793736ac214f91598&v=4",
-        "location": "San Marino",
-        "company": "Artemide Aste s.r.l. - Dea Moneta s.r.l.",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
@@ -1122,15 +1122,15 @@
         "publicContributions": 0
     },
     {
-        "login": "thomasrenzini",
-        "name": "Thomas Renzini",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/182883989?s=72&u=29199f0e696d9a5010650f9611edf3407b60348b&v=4",
+        "login": "marcomacari",
+        "name": "Marco Macari",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/8246070?s=72&v=4",
         "location": "San Marino",
-        "company": "undefined value",
+        "company": "ITTweb SRL",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 3
+        "publicContributions": 0
     },
     {
         "login": "orione1974",
@@ -1144,15 +1144,15 @@
         "publicContributions": 1
     },
     {
-        "login": "marcomacari",
-        "name": "Marco Macari",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/8246070?s=72&v=4",
+        "login": "thomasrenzini",
+        "name": "Thomas Renzini",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/182883989?s=72&u=29199f0e696d9a5010650f9611edf3407b60348b&v=4",
         "location": "San Marino",
-        "company": "ITTweb SRL",
+        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 3
     },
     {
         "login": "pro-free-dev",
@@ -1210,11 +1210,44 @@
         "publicContributions": 0
     },
     {
-        "login": "oleceabeaute",
-        "name": "Olecea Beaute",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/182948950?s=72&v=4",
-        "location": "2260 Huntington Dr, San Marino, CA 91108 USA",
-        "company": "Olecea Beaute",
+        "login": "pigorg",
+        "name": "alessandro gnola",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/15121381?s=72&u=bbacc55cb85328195c4b1d632b18596f539c777b&v=4",
+        "location": "san marino",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "ewb-kmok",
+        "name": "Kelvin Mok (EWB)",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/191641397?s=72&u=c02bd73ed062b54f46afc81c043ca11ef3906573&v=4",
+        "location": "San Marino, CA",
+        "company": "East West Bank",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 1
+    },
+    {
+        "login": "ecasadei",
+        "name": "Erik Casadei",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4525997?s=72&v=4",
+        "location": "Rep. of San Marino",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "LucaExtera",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84845535?s=72&v=4",
+        "location": "San Marino",
+        "company": "Extera srl",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
@@ -1232,28 +1265,6 @@
         "publicContributions": 0
     },
     {
-        "login": "ecasadei",
-        "name": "Erik Casadei",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/4525997?s=72&v=4",
-        "location": "Rep. of San Marino",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "pigorg",
-        "name": "alessandro gnola",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/15121381?s=72&u=bbacc55cb85328195c4b1d632b18596f539c777b&v=4",
-        "location": "san marino",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "deansoribminster",
         "name": "undefined value",
         "avatarUrl": "https://avatars.githubusercontent.com/u/183323208?s=72&u=3ad6cfccdf7d3134cfd858c87a65f040f4867dce&v=4",
@@ -1265,11 +1276,11 @@
         "publicContributions": 0
     },
     {
-        "login": "ewb-kmok",
-        "name": "Kelvin Mok (EWB)",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/191641397?s=72&u=c02bd73ed062b54f46afc81c043ca11ef3906573&v=4",
-        "location": "San Marino, CA",
-        "company": "East West Bank",
+        "login": "oleceabeaute",
+        "name": "Olecea Beaute",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/182948950?s=72&v=4",
+        "location": "2260 Huntington Dr, San Marino, CA 91108 USA",
+        "company": "Olecea Beaute",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
@@ -1361,6 +1372,6 @@
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 4
+        "publicContributions": 2
     }
 ]
