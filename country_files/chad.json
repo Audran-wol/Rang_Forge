@@ -6,9 +6,9 @@
         "location": "NDjamena, Chad",
         "company": "undefined value",
         "twitterUsername": "undefined value",
-        "followers": 52,
+        "followers": 51,
         "privateContributions": 0,
-        "publicContributions": 772
+        "publicContributions": 689
     },
     {
         "login": "bldd14",
@@ -17,8 +17,8 @@
         "location": "Chad, N'Djamena",
         "company": "undefined value",
         "twitterUsername": "undefined value",
-        "followers": 24,
-        "privateContributions": 13,
+        "followers": 25,
+        "privateContributions": 43,
         "publicContributions": 0
     },
     {
@@ -28,20 +28,20 @@
         "location": "Chad",
         "company": "ALX",
         "twitterUsername": "undefined value",
-        "followers": 13,
+        "followers": 15,
         "privateContributions": 0,
-        "publicContributions": 464
+        "publicContributions": 312
     },
     {
-        "login": "gitmhd",
-        "name": "Mouhammad Albissaty",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/86744371?s=72&u=927957d9d9129b1c9b88f3a16dd346c20c768f61&v=4",
-        "location": "N'Djamena",
-        "company": "Elminwal",
-        "twitterUsername": "gitmhd",
-        "followers": 13,
+        "login": "PoliniC",
+        "name": "@polini",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/75339981?s=72&u=eb69d21e1f7291cd96f388f0c48404f9b51ea854&v=4",
+        "location": "Chad",
+        "company": "Natillas",
+        "twitterUsername": "Bustamante",
+        "followers": 11,
         "privateContributions": 0,
-        "publicContributions": 0
+        "publicContributions": 1
     },
     {
         "login": "mittb1g",
@@ -51,19 +51,8 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 10,
-        "privateContributions": 30,
-        "publicContributions": 1
-    },
-    {
-        "login": "PoliniC",
-        "name": "@polini",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/75339981?s=72&u=eb69d21e1f7291cd96f388f0c48404f9b51ea854&v=4",
-        "location": "Chad",
-        "company": "Natillas",
-        "twitterUsername": "Bustamante",
-        "followers": 10,
-        "privateContributions": 0,
-        "publicContributions": 1
+        "privateContributions": 42,
+        "publicContributions": 0
     },
     {
         "login": "malachieborohoul",
@@ -73,8 +62,8 @@
         "company": "undefined value",
         "twitterUsername": "malachiborohoul",
         "followers": 9,
-        "privateContributions": 748,
-        "publicContributions": 563
+        "privateContributions": 198,
+        "publicContributions": 500
     },
     {
         "login": "imontash",
@@ -96,7 +85,7 @@
         "twitterUsername": "undefined value",
         "followers": 8,
         "privateContributions": 0,
-        "publicContributions": 12
+        "publicContributions": 2
     },
     {
         "login": "Floppinqq",
@@ -187,6 +176,17 @@
         "publicContributions": 3
     },
     {
+        "login": "Djerade",
+        "name": "Djerad\u00e9 Golb\u00e9 Parfait",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70259653?s=72&u=eae47156fd1afac38129942bbc9c1ffa93bb851b&v=4",
+        "location": "Chad",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 5,
+        "privateContributions": 0,
+        "publicContributions": 243
+    },
+    {
         "login": "luapwastaken",
         "name": "undefined value",
         "avatarUrl": "https://avatars.githubusercontent.com/u/74879728?s=72&u=a77c01c25cb2b88009dd67a44388eb0cc7bf9f6c&v=4",
@@ -220,17 +220,6 @@
         "publicContributions": 0
     },
     {
-        "login": "Djerade",
-        "name": "Djerad\u00e9 Golb\u00e9 Parfait",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/70259653?s=72&u=eae47156fd1afac38129942bbc9c1ffa93bb851b&v=4",
-        "location": "Chad",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 4,
-        "privateContributions": 0,
-        "publicContributions": 262
-    },
-    {
         "login": "Zelixity",
         "name": "rtel",
         "avatarUrl": "https://avatars.githubusercontent.com/u/58636004?s=72&u=2e8091b5688dfb47895d227f37ee776d0ca2ae3a&v=4",
@@ -242,8 +231,8 @@
         "publicContributions": 0
     },
     {
-        "login": "MrArchduke",
-        "name": "MrArchduke",
+        "login": "whoisthisguy1",
+        "name": "Whatheck",
         "avatarUrl": "https://avatars.githubusercontent.com/u/108301611?s=72&u=fb9e2b70bcd40520821ee1a58d85f8e6a1ea8414&v=4",
         "location": "Chad, USA",
         "company": "undefined value",
@@ -264,6 +253,17 @@
         "publicContributions": 0
     },
     {
+        "login": "CyberBray235",
+        "name": "Bray Madou\u00e9 KAGONGBE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/97260352?s=72&u=cf843a2f26bb491b60111b7a277e16943d712308&v=4",
+        "location": "N'Djamena / Tchad",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 4,
+        "privateContributions": 0,
+        "publicContributions": 7
+    },
+    {
         "login": "KanaBru",
         "name": "KAGONBE KANABET Bruno",
         "avatarUrl": "https://avatars.githubusercontent.com/u/60928633?s=72&u=a86c65c7b86538e0f3c94593a2aa3ea6bf91d54c&v=4",
@@ -282,8 +282,8 @@
         "company": "AIMS South Africa",
         "twitterUsername": "beriakalpelbe21",
         "followers": 4,
-        "privateContributions": 25,
-        "publicContributions": 185
+        "privateContributions": 94,
+        "publicContributions": 145
     },
     {
         "login": "ibnuasa",
@@ -338,7 +338,7 @@
         "twitterUsername": "undefined value",
         "followers": 3,
         "privateContributions": 0,
-        "publicContributions": 129
+        "publicContributions": 122
     },
     {
         "login": "gloire4",
@@ -359,8 +359,8 @@
         "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 3,
-        "privateContributions": 721,
-        "publicContributions": 778
+        "privateContributions": 801,
+        "publicContributions": 811
     },
     {
         "login": "fredifils",
@@ -372,6 +372,17 @@
         "followers": 2,
         "privateContributions": 0,
         "publicContributions": 0
+    },
+    {
+        "login": "JeromeeX",
+        "name": "J\u00e9r\u00f4me Xinglin QIAN",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/93470391?s=72&u=2b0d231de26fc149c679be377d0639fbe6c98b07&v=4",
+        "location": "N'Djamena, Tchad",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 17
     },
     {
         "login": "MiraiDesuuYo",
@@ -394,6 +405,17 @@
         "followers": 2,
         "privateContributions": 0,
         "publicContributions": 2
+    },
+    {
+        "login": "saynoxbd",
+        "name": "SayNox BD",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/126282505?s=72&u=4bb5902d2204b71a931051802ae1e4f39e415b70&v=4",
+        "location": "CHAD ER DESH",
+        "company": "TEAM DESTROYER",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 41
     },
     {
         "login": "Baharmohamed98",
@@ -437,7 +459,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 11
+        "publicContributions": 7
     },
     {
         "login": "axebra12",
@@ -470,7 +492,7 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 27
+        "publicContributions": 5
     },
     {
         "login": "ElectricDo",
@@ -506,17 +528,6 @@
         "publicContributions": 1
     },
     {
-        "login": "George-Cartwright",
-        "name": "George Cartwright",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/111559147?s=72&u=150284589bead18d7f48fd77146fc70dbe77e666&v=4",
-        "location": "N'Djamena, Chad",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "ssougour",
         "name": "Sougour Mahamat Souleyman",
         "avatarUrl": "https://avatars.githubusercontent.com/u/47749593?s=72&u=d79e635f0a64ebc14bd611c3f2120ecdec309168&v=4",
@@ -526,6 +537,17 @@
         "followers": 2,
         "privateContributions": 0,
         "publicContributions": 12
+    },
+    {
+        "login": "George-Cartwright",
+        "name": "George Cartwright",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/111559147?s=72&u=150284589bead18d7f48fd77146fc70dbe77e666&v=4",
+        "location": "N'Djamena, Chad",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 0,
+        "publicContributions": 0
     },
     {
         "login": "XxEricgamerZxX",
@@ -567,17 +589,6 @@
         "location": "Chagoua, N'Djamena, Chad",
         "company": "undefined value",
         "twitterUsername": "All_Djim",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "CyberBray235",
-        "name": "Bray Madou\u00e9 KAGONGBE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/97260352?s=72&u=7b885f2963df0eff78cd2e7d578a01da4b2e601a&v=4",
-        "location": "N'Djamena / Tchad",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
         "publicContributions": 0
@@ -657,7 +668,7 @@
         "twitterUsername": "borkounou",
         "followers": 2,
         "privateContributions": 0,
-        "publicContributions": 25
+        "publicContributions": 14
     },
     {
         "login": "hishas",
@@ -668,6 +679,17 @@
         "twitterUsername": "undefined value",
         "followers": 2,
         "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "th-huese",
+        "name": "th0mass",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78281885?s=72&u=14c4697ad4642fc5fb9625b187f2b20d01f7f032&v=4",
+        "location": "Chad",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 2,
+        "privateContributions": 57,
         "publicContributions": 0
     },
     {
@@ -682,17 +704,6 @@
         "publicContributions": 2
     },
     {
-        "login": "th-huese",
-        "name": "th0mass",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/78281885?s=72&u=14c4697ad4642fc5fb9625b187f2b20d01f7f032&v=4",
-        "location": "Chad",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 57,
-        "publicContributions": 0
-    },
-    {
         "login": "hissene",
         "name": "Hissene Abdelwahid",
         "avatarUrl": "https://avatars.githubusercontent.com/u/10146460?s=72&u=cd53ea27cfffbcc8dbb2b78fefb1bc86cbd652f4&v=4",
@@ -702,17 +713,6 @@
         "followers": 2,
         "privateContributions": 0,
         "publicContributions": 6
-    },
-    {
-        "login": "Hisssein",
-        "name": "HisseinAdam",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/193531357?s=72&u=7ed0535aa9e1e06dcacf1deef3d651b6424c4187&v=4",
-        "location": "N'djamena ",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 2,
-        "privateContributions": 0,
-        "publicContributions": 3
     },
     {
         "login": "jordanschermer",
@@ -759,6 +759,17 @@
         "publicContributions": 0
     },
     {
+        "login": "moustaphousman",
+        "name": "Moustapha",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81974619?s=72&u=05444d22c5e3c0082bf8daf5a057fd4378fee521&v=4",
+        "location": "N'Djamena",
+        "company": "undefined value",
+        "twitterUsername": "moustaphousman",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
         "login": "Charlesjami",
         "name": "Charles Jamison",
         "avatarUrl": "https://avatars.githubusercontent.com/u/155015393?s=72&v=4",
@@ -781,28 +792,6 @@
         "publicContributions": 0
     },
     {
-        "login": "moustaphousman",
-        "name": "Moustapha",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/81974619?s=72&u=05444d22c5e3c0082bf8daf5a057fd4378fee521&v=4",
-        "location": "N'Djamena",
-        "company": "undefined value",
-        "twitterUsername": "moustaphousman",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
-        "login": "OneMusty",
-        "name": "OneMusty",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/133362807?s=72&u=d75256b384d3d10d91626c37afc4c95a85c3d50b&v=4",
-        "location": "Chad",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 4
-    },
-    {
         "login": "ndilnodji",
         "name": "Ndilnodji Djimadoumbaye",
         "avatarUrl": "https://avatars.githubusercontent.com/u/121158726?s=72&u=08dfbb4f40a6ab743d4bef7bc554d2a285fddf20&v=4",
@@ -814,17 +803,6 @@
         "publicContributions": 6
     },
     {
-        "login": "saynoxbd",
-        "name": "SayNox BD",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/126282505?s=72&u=4bb5902d2204b71a931051802ae1e4f39e415b70&v=4",
-        "location": "CHAD ER DESH",
-        "company": "TEAM DESTROYER",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 18
-    },
-    {
         "login": "Djet-hub",
         "name": "Hubert Djeteinboua",
         "avatarUrl": "https://avatars.githubusercontent.com/u/85284835?s=72&v=4",
@@ -834,6 +812,17 @@
         "followers": 1,
         "privateContributions": 0,
         "publicContributions": 7
+    },
+    {
+        "login": "OneMusty",
+        "name": "OneMusty",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/133362807?s=72&u=d75256b384d3d10d91626c37afc4c95a85c3d50b&v=4",
+        "location": "Chad",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 31
     },
     {
         "login": "TelvanniChad",
@@ -869,17 +858,6 @@
         "publicContributions": 0
     },
     {
-        "login": "foye-jr1046",
-        "name": "Abdelwahid Mahamat Foye Ilias",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/50973160?s=72&u=c2997b314fcf136f389e6e79d2077fee51caecc8&v=4",
-        "location": "N'djamena, Chad",
-        "company": "A.M.F.I.tech",
-        "twitterUsername": "foye_jr1046",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "Dissentbay",
         "name": "Dissent",
         "avatarUrl": "https://avatars.githubusercontent.com/u/4554200?s=72&v=4",
@@ -888,7 +866,18 @@
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 19
+        "publicContributions": 18
+    },
+    {
+        "login": "foye-jr1046",
+        "name": "Abdelwahid Mahamat Foye Ilias",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/50973160?s=72&u=c2997b314fcf136f389e6e79d2077fee51caecc8&v=4",
+        "location": "N'djamena, Chad",
+        "company": "A.M.F.I.tech",
+        "twitterUsername": "foye_jr1046",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 1
     },
     {
         "login": "mirror163",
@@ -990,17 +979,6 @@
         "publicContributions": 0
     },
     {
-        "login": "Mahamat-Abdoulkerim-Mahamat-Amadou",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/158032873?s=72&v=4",
-        "location": "Tchad/N'Djamena ",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 3
-    },
-    {
         "login": "LatishaLambeth",
         "name": "Latisha Lambeth",
         "avatarUrl": "https://avatars.githubusercontent.com/u/50203494?s=72&u=f57504bdde093e3ded95264bebbf2a4c88fa42b6&v=4",
@@ -1061,6 +1039,17 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/99184771?s=72&v=4",
         "location": "N'djamena",
         "company": "Imperial brands ",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "Mahamat-Abdoulkerim-Mahamat-Amadou",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/158032873?s=72&v=4",
+        "location": "Tchad/N'Djamena ",
+        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
@@ -1331,23 +1320,23 @@
         "publicContributions": 0
     },
     {
-        "login": "SAbakar",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/40408076?s=72&v=4",
-        "location": "chad",
-        "company": "syntalsoft",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 0
-    },
-    {
         "login": "Khayarion",
         "name": "Hamid",
         "avatarUrl": "https://avatars.githubusercontent.com/u/67801684?s=72&u=6e20145daabb2181f0c5704b0f67d9b36c0d9bc4&v=4",
         "location": "N'djamena, Chad ",
         "company": "Chad Innovation Association",
         "twitterUsername": "khayarion",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 0
+    },
+    {
+        "login": "SAbakar",
+        "name": "undefined value",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/40408076?s=72&v=4",
+        "location": "chad",
+        "company": "syntalsoft",
+        "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
         "publicContributions": 0
@@ -1408,15 +1397,15 @@
         "publicContributions": 0
     },
     {
-        "login": "mouazmikail",
-        "name": "Mikail",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/45897030?s=72&u=744c53da4f87812525ac8fdb6a3aa8720a78852f&v=4",
-        "location": "CHAD",
-        "company": "ENASTIC",
+        "login": "Hisssein",
+        "name": "HisseinAdam",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/193531357?s=72&u=7ed0535aa9e1e06dcacf1deef3d651b6424c4187&v=4",
+        "location": "N'djamena ",
+        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 1,
         "privateContributions": 0,
-        "publicContributions": 1
+        "publicContributions": 3
     },
     {
         "login": "aguidiweidegue",
@@ -1428,6 +1417,17 @@
         "followers": 1,
         "privateContributions": 0,
         "publicContributions": 0
+    },
+    {
+        "login": "mouazmikail",
+        "name": "Mikail",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/45897030?s=72&u=744c53da4f87812525ac8fdb6a3aa8720a78852f&v=4",
+        "location": "CHAD",
+        "company": "ENASTIC",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 1
     },
     {
         "login": "ahmedkondas",
@@ -1496,6 +1496,17 @@
         "publicContributions": 0
     },
     {
+        "login": "MrTopik",
+        "name": "MrTopik",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/125857315?s=72&v=4",
+        "location": "Chad",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 1,
+        "privateContributions": 0,
+        "publicContributions": 21
+    },
+    {
         "login": "mpassoret",
         "name": "Moudinet Passoret",
         "avatarUrl": "https://avatars.githubusercontent.com/u/87269959?s=72&u=97c6fb28626409bae24eae8d771c9572a0d1ff8e&v=4",
@@ -1507,17 +1518,6 @@
         "publicContributions": 0
     },
     {
-        "login": "pseudogode",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/138826790?s=72&v=4",
-        "location": "Chad",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 1,
-        "privateContributions": 0,
-        "publicContributions": 38
-    },
-    {
         "login": "vishalkashyap9555",
         "name": "Vishal",
         "avatarUrl": "https://avatars.githubusercontent.com/u/155016711?s=72&u=ef14b95ae634c30e7a240a10b48fc8801ebe4edf&v=4",
@@ -1526,7 +1526,29 @@
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 2
+        "publicContributions": 0
+    },
+    {
+        "login": "FrancoOcampoBer",
+        "name": "Franco Ocampo",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/198987839?s=72&u=23d38dc17df6b6799aeeca6615e0b20142879358&v=4",
+        "location": "Chad ",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 1
+    },
+    {
+        "login": "cantheyes",
+        "name": "cantheyes",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/201141078?s=72&u=2d5a8de45014bbe2633f306bdf6604d598f96484&v=4",
+        "location": "chad",
+        "company": "@McDonalds",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 1
     },
     {
         "login": "Maardimah",
@@ -1537,7 +1559,7 @@
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 10
+        "publicContributions": 6
     },
     {
         "login": "bacharacherif",
@@ -1560,17 +1582,6 @@
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 17
-    },
-    {
-        "login": "caversonlywins",
-        "name": "undefined value",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/183165829?s=72&u=a4a4ffb2dca063c120f1781b6a51064f9d9638ef&v=4",
-        "location": "Chad (TD)",
-        "company": "undefined value",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 0
     },
     {
         "login": "Nsebastien-cyber",
@@ -1625,7 +1636,7 @@
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
-        "publicContributions": 1
+        "publicContributions": 2
     },
     {
         "login": "Raxiar",
@@ -1633,17 +1644,6 @@
         "avatarUrl": "https://avatars.githubusercontent.com/u/185199970?s=72&u=a7079a076910124b4a3ae76e47b4b279dfd62057&v=4",
         "location": "Chad",
         "company": "AllahSolutions",
-        "twitterUsername": "undefined value",
-        "followers": 0,
-        "privateContributions": 0,
-        "publicContributions": 1
-    },
-    {
-        "login": "drkebfene",
-        "name": "CENTRE DE RECHERCHE, FORMATION ET EXPERTISE DE SANTE PUBLIQUE",
-        "avatarUrl": "https://avatars.githubusercontent.com/u/189990079?s=72&u=b138082fe82fd4569d27e776a5f29e239ffe75b3&v=4",
-        "location": "Moundou, Logone Occidental",
-        "company": "undefined value",
         "twitterUsername": "undefined value",
         "followers": 0,
         "privateContributions": 0,
@@ -1659,5 +1659,16 @@
         "followers": 0,
         "privateContributions": 0,
         "publicContributions": 6
+    },
+    {
+        "login": "drkebfene",
+        "name": "CENTRE DE RECHERCHE, FORMATION ET EXPERTISE DE SANTE PUBLIQUE",
+        "avatarUrl": "https://avatars.githubusercontent.com/u/189990079?s=72&u=b138082fe82fd4569d27e776a5f29e239ffe75b3&v=4",
+        "location": "Moundou, Logone Occidental",
+        "company": "undefined value",
+        "twitterUsername": "undefined value",
+        "followers": 0,
+        "privateContributions": 0,
+        "publicContributions": 1
     }
 ]
