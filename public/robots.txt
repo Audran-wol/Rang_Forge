@@ -1,5 +1,18 @@
+# robots.txt for Rang Forge
+# https://rang-forge.netlify.app
+
 User-agent: *
 Allow: /
 
+# Disallow certain paths
+Disallow: /api/
+Disallow: /_next/
+
 # Sitemaps
 Sitemap: https://rang-forge.netlify.app/sitemap.xml
+
+# RSS Feeds
+# Main feed
+# https://rang-forge.netlify.app/rss.xml
+# Country-specific feeds available at:
+# https://rang-forge.netlify.app/feeds/{country}.xml

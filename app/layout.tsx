@@ -66,6 +66,14 @@ export const metadata: Metadata = {
     creator: '@rangforge',
   },
   alternates: {
+    types: {
+      'application/rss+xml': [
+        {
+          url: 'https://rang-forge.netlify.app/rss.xml',
+          title: 'GitHub Developer Rankings RSS Feed',
+        },
+      ],
+    },
     canonical: 'https://rang-forge.netlify.app',
   },
 };
@@ -77,6 +85,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="pt-br" suppressHydrationWarning>
+      <head>
+        <link rel="alternate" type="application/rss+xml" title="GitHub Developer Rankings" href="https://rang-forge.netlify.app/rss.xml" />
+      </head>
       <body className={cn("min-h-screen bg-background", inter.className)}>
         <ThemeProvider
           attribute="class"
